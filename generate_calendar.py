@@ -175,14 +175,15 @@ def update_endfield_calendar(filename):
 def update_wuthering_calendar(filename):
     url = (
         "https://api.github.com/repos/"
-        "TheLovinator1/wutheringwaves/contents/articles"
+        "TheLovinator1/wutheringwaves/git/trees/master"
+        "?recursive=1"
     )
 
     data = fetch_json(url)
 
-    if not isinstance(data, list):
+    if not isinstance(data, dict):
         raise RuntimeError(
-            "Wuthering Waves articles API returned unexpected data"
+            "Wuthering Waves Git tree API returned unexpected data"
         )
 
     calendar_events = []
@@ -192,16 +193,34 @@ def update_wuthering_calendar(filename):
         "Featured Resonator",
         "Featured Weapon",
         "Limited-Time",
+        "Combat Event",
+        "Leisure Event",
+        "Exploration Event",
+        "Commission Event",
+        "Login Event",
+        "Material Double Drop",
+        "Echo Double Drop",
+        "Battle Rush",
+        "Depths of Illusive Realm",
+        "Endstate Matrix",
         "Event",
-        "Version",
-        "Patch Notes",
+        "Convene",
     ]
 
-    for file in data:
-        file_url = file.get("download_url")
+    for file in data.get("tree", []):
+        path = file.get("path", "")
 
-        if not file_url or not file.get("name", "").endswith(".json"):
+        if not path.startswith("articles/"):
             continue
+
+        if not path.endswith(".json"):
+            continue
+
+        file_url = (
+            "https://raw.githubusercontent.com/"
+            "TheLovinator1/wutheringwaves/master/"
+            + path
+        )
 
         try:
             article = fetch_json(file_url)
@@ -214,21 +233,24 @@ def update_wuthering_calendar(filename):
         if not title or not start:
             continue
 
-        if not any(keyword.lower() in title.lower() for keyword in keywords):
+        if not any(
+            keyword.lower() in title.lower()
+            for keyword in keywords
+        ):
             continue
 
         try:
-            start_dt = datetime.fromisoformat(
-                start.replace("Z", "+00:00")
+            start_dt = datetime.strptime(
+                start,
+                "%Y-%m-%d %H:%M:%S"
+            ).replace(
+                tzinfo=timezone.utc
             )
-        except ValueError:
+        except (ValueError, TypeError):
             continue
 
         calendar_events.append({
-            "id": article.get(
-                "articleId",
-                title
-            ),
+            "id": f"wuthering-{article.get('articleId', title)}",
             "name": title,
             "start_time": start_dt.timestamp(),
             "end_time": start_dt.timestamp(),
@@ -237,6 +259,18 @@ def update_wuthering_calendar(filename):
                 + title
             ),
         })
+
+    # Remove duplicate events
+    unique_events = {}
+    for event in calendar_events:
+        unique_events[event["id"]] = event
+
+    calendar_events = list(unique_events.values())
+
+    # Sort by start time
+    calendar_events.sort(
+        key=lambda event: event["start_time"]
+    )
 
     print(
         f"wuthering: {len(calendar_events)} events"

@@ -6,42 +6,42 @@ X-WR-CALNAME:🩷 崩坏：星穹铁道
 X-WR-TIMEZONE:Asia/Kuala_Lumpur
 BEGIN:VEVENT
 UID:279@🩷 崩坏：星穹铁道
-DTSTAMP:20260915T042635Z
+DTSTAMP:20260915T043036Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260825T110000
 DTEND;TZID=Asia/Kuala_Lumpur:20260928T035959
-SUMMARY:Gift of Odyssey
+SUMMARY:巡星之礼
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:277@🩷 崩坏：星穹铁道
-DTSTAMP:20260915T042635Z
+DTSTAMP:20260915T043036Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260912T190000
 DTEND;TZID=Asia/Kuala_Lumpur:20260928T035959
-SUMMARY:Minuscule Great Adventure
-DESCRIPTION:Embark on a minuscule great adventure that packs over half the troubles in the cosmos! Assemble your hero squad\, challenge stage after stage of trials\, and defeat all the formidable foes in your path.
+SUMMARY:方寸大冒险
+DESCRIPTION:踏上方寸大冒险，这里装下了大半个银河的麻烦。集结你的勇者小队，挑战重重难关，击败面前的所有强敌吧。
 END:VEVENT
 BEGIN:VEVENT
 UID:278@🩷 崩坏：星穹铁道
-DTSTAMP:20260915T042635Z
+DTSTAMP:20260915T043036Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260907T110000
 DTEND;TZID=Asia/Kuala_Lumpur:20260921T105959
-SUMMARY:Planar Fissure
-DESCRIPTION:During the event\, successfully challenge Simulated Universe or Divergent Universe to earn double Planar Ornaments rewards.
+SUMMARY:位面分裂
+DESCRIPTION:活动期间，成功挑战「模拟宇宙」或「差分宇宙」，可获得位面饰品双倍奖励。
 END:VEVENT
 BEGIN:VEVENT
 UID:280@🩷 崩坏：星穹铁道
-DTSTAMP:20260915T042635Z
+DTSTAMP:20260915T043036Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260824T110000
 DTEND;TZID=Asia/Kuala_Lumpur:20260928T035959
-SUMMARY:Overdrive: Whirlwind Grand Prix
-DESCRIPTION:The brand-new racing grand prix in Astropolis will emulate the "Phantasmoon Games." The sole winning team will ascend to godhood and become the "God of Traffic (Laws)."
+SUMMARY:超限：狂飙大奖赛
+DESCRIPTION:千星城全新的赛车比赛将效仿「幻月游戏」，唯一胜利的队伍将登神成为「掌管交通（规则）的神」。
 END:VEVENT
 BEGIN:VEVENT
 UID:276@🩷 崩坏：星穹铁道
-DTSTAMP:20260915T042635Z
+DTSTAMP:20260915T043036Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260919T110000
 DTEND;TZID=Asia/Kuala_Lumpur:20260928T035959
-SUMMARY:Realm of the Strange
-DESCRIPTION:During the event\, successfully challenge Caverns of Corrosion to earn double rewards.
+SUMMARY:异器盈界
+DESCRIPTION:活动期间，成功挑战「侵蚀隧洞」，可获得双倍奖励。
 END:VEVENT
 END:VCALENDAR

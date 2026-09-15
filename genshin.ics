@@ -6,34 +6,34 @@ X-WR-CALNAME:🩵 原神
 X-WR-TIMEZONE:Asia/Kuala_Lumpur
 BEGIN:VEVENT
 UID:426@🩵 原神
-DTSTAMP:20260915T042634Z
+DTSTAMP:20260915T043035Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260907T100000
 DTEND;TZID=Asia/Kuala_Lumpur:20260917T035959
-SUMMARY:Trial of the Bastion
-DESCRIPTION:Talalikhin\, an adventurer dedicated to studying dangerous phenomena\, has devised a new training simulation after compiling intelligence from various factions. This simulation is engineered to hone adventurers' skills in constructing defensive works and holding the line against formidable foes with firearms.
+SUMMARY:禁界拟想阵地战
+DESCRIPTION:专注于研究危险现象的冒险家塔拉利欣总结了各方情报，设计了一种演练，用于锻炼冒险家们建造工事，用枪械抵御强敌的能力…
 END:VEVENT
 BEGIN:VEVENT
 UID:425@🩵 原神
-DTSTAMP:20260915T042634Z
+DTSTAMP:20260915T043035Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260819T100000
 DTEND;TZID=Asia/Kuala_Lumpur:20260922T035959
-SUMMARY:Stygian Onslaught
-DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain\, for only by defeating powerful foes can the turmoil be quelled... Of course\, where danger awaits\, so too do extraordinary treasures...
+SUMMARY:幽境危战
+DESCRIPTION:诡异的地脉紊乱点再度出现在了璃月的地中之盐一带，唯有深入叵测的秘境，战胜强敌，才能平息此地的动乱，并发掘非同寻常的秘宝…
 END:VEVENT
 BEGIN:VEVENT
 UID:429@🩵 原神
-DTSTAMP:20260915T042634Z
+DTSTAMP:20260915T043035Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260914T040000
 DTEND;TZID=Asia/Kuala_Lumpur:20260921T035959
-SUMMARY:Ley Line Overflow
+SUMMARY:地脉移涌
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:428@🩵 原神
-DTSTAMP:20260915T042634Z
+DTSTAMP:20260915T043035Z
 DTSTART;TZID=Asia/Kuala_Lumpur:20260812T070000
 DTEND;TZID=Asia/Kuala_Lumpur:20260923T070000
-SUMMARY:The Forge Realm's Temper: Game of Wits
+SUMMARY:铸境研炼·奕思巧战
 DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

@@ -4,4 +4,3036 @@ PRODID:-//Game Calendar//Auto//CN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:💙 鸣潮
 X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VEVENT
+UID:1004@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240629T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20240629T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:1006@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240630T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240630T020000
+SUMMARY:Wuthering Waves Fan Creation Event “Thaw of Eons” is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event “Thaw of Eons” is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:1018@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240703T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240703T020000
+SUMMARY:[Gifts of Gratitude] Featured Login Event
+DESCRIPTION:鸣潮官方活动公告\n[Gifts of Gratitude] Featured Login Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1038@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240710T203243
+DTEND;TZID=Asia/Kuala_Lumpur:20240710T203243
+SUMMARY:[Bountiful Crescendo] Featured Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Featured Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1055@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240717T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240717T190000
+SUMMARY:Event Notice | [Tactical Simulacra] Featured Combat Event Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | [Tactical Simulacra] Featured Combat Event Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1065@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240721T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240721T190000
+SUMMARY:[Vermillion's Ploy] Featured Resonator Convene: Boosted Drop Rate for Changli
+DESCRIPTION:鸣潮官方活动公告\n[Vermillion's Ploy] Featured Resonator Convene: Boosted Drop Rate for Changli
+END:VEVENT
+BEGIN:VEVENT
+UID:1066@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240721T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20240721T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Brilliance
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Brilliance
+END:VEVENT
+BEGIN:VEVENT
+UID:1080@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240724T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240724T020000
+SUMMARY:Event Notice | "Lollo Campaign" Limited-time Commission Event Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | "Lollo Campaign" Limited-time Commission Event Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1099@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240805T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240805T190000
+SUMMARY:[Chord Cleansing] Featured Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Featured Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1109@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240807T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20240807T040000
+SUMMARY:Wuthering Waves Developer's Message Vol. 4: Version 1.2 Optimization Preview With A Special Note From Developers
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Developer's Message Vol. 4: Version 1.2 Optimization Preview With A Special Note From Developers
+END:VEVENT
+BEGIN:VEVENT
+UID:1114@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240808T193000
+DTEND;TZID=Asia/Kuala_Lumpur:20240808T193000
+SUMMARY:Wuthering Waves Version Preview | Version 1.2 "In the Turquoise Moonglow" Coming August 15
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 1.2 "In the Turquoise Moonglow" Coming August 15
+END:VEVENT
+BEGIN:VEVENT
+UID:1137@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240810T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240810T190000
+SUMMARY:Wuthering Waves Version 1.2 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 1.2 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:1147@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240813T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240813T020000
+SUMMARY:Wuthering Waves Version Overview | Version 1.2 "In the Turquoise Moonglow" Coming August 15
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Overview | Version 1.2 "In the Turquoise Moonglow" Coming August 15
+END:VEVENT
+BEGIN:VEVENT
+UID:1157@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240814T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240814T020000
+SUMMARY:Event Notice | "By Moon's Grace" Moon-Chasing Festival Themed Event Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | "By Moon's Grace" Moon-Chasing Festival Themed Event Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1170@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240814T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240814T190000
+SUMMARY:[Chromatic Prose] Featured Resonator Convene: Boosted Drop Rate for Zhezhi
+DESCRIPTION:鸣潮官方活动公告\n[Chromatic Prose] Featured Resonator Convene: Boosted Drop Rate for Zhezhi
+END:VEVENT
+BEGIN:VEVENT
+UID:1171@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240814T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20240814T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Rime-Draped Sprouts
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Rime-Draped Sprouts
+END:VEVENT
+BEGIN:VEVENT
+UID:1178@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240815T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240815T020000
+SUMMARY:Event Notice | "Reprise of Tides" Returnee Event Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | "Reprise of Tides" Returnee Event Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1190@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240815T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20240815T160000
+SUMMARY:Version 1.2: In the Turquoise Moonglow Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 1.2: In the Turquoise Moonglow Patch Notes
+END:VEVENT
+BEGIN:VEVENT
+UID:1198@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240816T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20240816T040000
+SUMMARY:Wuthering Waves Fan Creation Event “In the Turquoise Moonglow” is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event “In the Turquoise Moonglow” is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:1203@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240817T023000
+DTEND;TZID=Asia/Kuala_Lumpur:20240817T023000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:1218@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240821T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20240821T010000
+SUMMARY:Event Notice | Depths of Illusive Realm: Carnival in Slumberland Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | Depths of Illusive Realm: Carnival in Slumberland Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1233@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240828T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20240828T180000
+SUMMARY:[Bountiful Crescendo] Featured Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Featured Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1268@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240905T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240905T020000
+SUMMARY:[Do Echoids Dream of Electric Sheeps] Limited-Time Defense Event
+DESCRIPTION:鸣潮官方活动公告\n[Do Echoids Dream of Electric Sheeps] Limited-Time Defense Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1279@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240906T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240906T190000
+SUMMARY:[Celestial Revelation] Featured Resonator Convene: Boosted Drop Rate for Xiangli Yao
+DESCRIPTION:鸣潮官方活动公告\n[Celestial Revelation] Featured Resonator Convene: Boosted Drop Rate for Xiangli Yao
+END:VEVENT
+BEGIN:VEVENT
+UID:1280@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240906T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20240906T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verity's Handle
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verity's Handle
+END:VEVENT
+BEGIN:VEVENT
+UID:1288@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240906T220000
+DTEND;TZID=Asia/Kuala_Lumpur:20240906T220000
+SUMMARY:V1.2 WUWA Discord Quest Livestream Event Begins!
+DESCRIPTION:鸣潮官方活动公告\nV1.2 WUWA Discord Quest Livestream Event Begins!
+END:VEVENT
+BEGIN:VEVENT
+UID:1296@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240911T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20240911T180000
+SUMMARY:[Wuthering Exploration] Limited-Time Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Wuthering Exploration] Limited-Time Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1306@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240915T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240915T190000
+SUMMARY:[Alloy Smelt II] Limited-Time Battle Challenge
+DESCRIPTION:鸣潮官方活动公告\n[Alloy Smelt II] Limited-Time Battle Challenge
+END:VEVENT
+BEGIN:VEVENT
+UID:1316@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240919T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240919T190000
+SUMMARY:[Chord Cleansing] Featured Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Featured Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1328@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240921T035000
+DTEND;TZID=Asia/Kuala_Lumpur:20240921T035000
+SUMMARY:Wuthering Waves Version Preview | Version 1.3 "To the Shore's End" Coming September 29
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 1.3 "To the Shore's End" Coming September 29
+END:VEVENT
+BEGIN:VEVENT
+UID:1374@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240926T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240926T020000
+SUMMARY:Wuthering Waves Version 1.3 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 1.3 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:1381@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240929T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20240929T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:1386@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240926T223000
+DTEND;TZID=Asia/Kuala_Lumpur:20240926T223000
+SUMMARY:Version 1.3 [The Black Shores] Special Leveling Events
+DESCRIPTION:鸣潮官方活动公告\nVersion 1.3 [The Black Shores] Special Leveling Events
+END:VEVENT
+BEGIN:VEVENT
+UID:1408@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240928T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240928T020000
+SUMMARY:Wuthering Waves Update Preview | Version 1.3 "To the Shore's End" to be released on Sep 29th.
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Preview | Version 1.3 "To the Shore's End" to be released on Sep 29th.
+END:VEVENT
+BEGIN:VEVENT
+UID:1417@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240929T230000
+DTEND;TZID=Asia/Kuala_Lumpur:20240929T230000
+SUMMARY:Wuthering Waves Fan Creation Event "To the Shore's End" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "To the Shore's End" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:1420@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240929T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240929T020000
+SUMMARY:[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper
+DESCRIPTION:鸣潮官方活动公告\n[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper
+END:VEVENT
+BEGIN:VEVENT
+UID:1421@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240929T021500
+DTEND;TZID=Asia/Kuala_Lumpur:20240929T021500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony
+END:VEVENT
+BEGIN:VEVENT
+UID:1454@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240929T181624
+DTEND;TZID=Asia/Kuala_Lumpur:20240929T181624
+SUMMARY:Version 1.3: To the Shore's End Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 1.3: To the Shore's End Patch Notes
+END:VEVENT
+BEGIN:VEVENT
+UID:1473@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240930T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240930T190000
+SUMMARY:[Fairy Tale's Finale] Featured Co-op Combat Event
+DESCRIPTION:鸣潮官方活动公告\n[Fairy Tale's Finale] Featured Co-op Combat Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1491@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241009T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241009T190000
+SUMMARY:[Solaris Weather Forecast] Featured Platforming Event
+DESCRIPTION:鸣潮官方活动公告\n[Solaris Weather Forecast] Featured Platforming Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1492@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241010T020001
+DTEND;TZID=Asia/Kuala_Lumpur:20241010T020001
+SUMMARY:[Wuthering Exploration] Featured Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Wuthering Exploration] Featured Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1502@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241016T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241016T190000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1509@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241018T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20241018T200000
+SUMMARY:A Compilation of Upcoming Events in Wuthering Waves Version 1.3
+DESCRIPTION:鸣潮官方活动公告\nA Compilation of Upcoming Events in Wuthering Waves Version 1.3
+END:VEVENT
+BEGIN:VEVENT
+UID:1541@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241023T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241023T190000
+SUMMARY:[Prevail the Lasting Night] Featured Resonator Convene: Boosted Drop Rate for Jiyan
+DESCRIPTION:鸣潮官方活动公告\n[Prevail the Lasting Night] Featured Resonator Convene: Boosted Drop Rate for Jiyan
+END:VEVENT
+BEGIN:VEVENT
+UID:1542@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241023T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20241023T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verdant Summit
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verdant Summit
+END:VEVENT
+BEGIN:VEVENT
+UID:1562@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241030T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241030T190000
+SUMMARY:[Wuthering Exploration] Featured Exploration Event: Mt. Firmament
+DESCRIPTION:鸣潮官方活动公告\n[Wuthering Exploration] Featured Exploration Event: Mt. Firmament
+END:VEVENT
+BEGIN:VEVENT
+UID:1573@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241104T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20241104T191500
+SUMMARY:Wuthering Waves Version Preview | Version 1.4 "When the Night Knocks" Coming November 14 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 1.4 "When the Night Knocks" Coming November 14 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:1588@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241105T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241105T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1606@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241110T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20241110T020000
+SUMMARY:Wuthering Waves Version 1.4 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 1.4 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:1607@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241110T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241110T190000
+SUMMARY:Wuthering Waves Update Preview | Version 1.4 "When the Night Knocks" to be released on Nov 14th
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Preview | Version 1.4 "When the Night Knocks" to be released on Nov 14th
+END:VEVENT
+BEGIN:VEVENT
+UID:1631@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241111T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241111T190000
+SUMMARY:Event Preview | Somnium Labyrinth: Somnoire Adventure Event\, Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | Somnium Labyrinth: Somnoire Adventure Event\, Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1644@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241113T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241113T190000
+SUMMARY:[End of Lost Trail] Featured Resonator Convene: Boosted Drop Rate for Camellya
+DESCRIPTION:鸣潮官方活动公告\n[End of Lost Trail] Featured Resonator Convene: Boosted Drop Rate for Camellya
+END:VEVENT
+BEGIN:VEVENT
+UID:1645@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241113T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20241113T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Red Spring
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Red Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:1646@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241114T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20241114T020000
+SUMMARY:Event Preview | Depths of Illusive Realm: Phantasm Amass\, Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | Depths of Illusive Realm: Phantasm Amass\, Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1647@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241114T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20241114T160000
+SUMMARY:Version 1.4: When the Night Knocks Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 1.4: When the Night Knocks Patch Notes
+END:VEVENT
+BEGIN:VEVENT
+UID:1661@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241114T030000
+DTEND;TZID=Asia/Kuala_Lumpur:20241114T030000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:1671@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241114T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20241114T200000
+SUMMARY:Wuthering Waves Fan Creation Event "When the night knocks" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "When the night knocks" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:1693@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241120T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241120T190000
+SUMMARY:[Beyond the Waves] Featured Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Beyond the Waves] Featured Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1715@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241204T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241204T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1738@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241209T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241209T190000
+SUMMARY:Upcoming Events in Wuthering Waves Version 1.4
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 1.4
+END:VEVENT
+BEGIN:VEVENT
+UID:1768@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241211T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241211T190000
+SUMMARY:[When Thunder Pours] Featured Resonator Convene: Boosted Drop Rate for Yinlin
+DESCRIPTION:鸣潮官方活动公告\n[When Thunder Pours] Featured Resonator Convene: Boosted Drop Rate for Yinlin
+END:VEVENT
+BEGIN:VEVENT
+UID:1769@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241211T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20241211T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stringmaster
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stringmaster
+END:VEVENT
+BEGIN:VEVENT
+UID:1770@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241211T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241211T190000
+SUMMARY:[Celestial Revelation] Featured Resonator Convene: Boosted Drop Rate for Xiangli Yao
+DESCRIPTION:鸣潮官方活动公告\n[Celestial Revelation] Featured Resonator Convene: Boosted Drop Rate for Xiangli Yao
+END:VEVENT
+BEGIN:VEVENT
+UID:1771@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241211T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20241211T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verity's Handle
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verity's Handle
+END:VEVENT
+BEGIN:VEVENT
+UID:1788@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241218T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241218T190000
+SUMMARY:[Tactical Simulacra II] Featured Combat Event
+DESCRIPTION:鸣潮官方活动公告\n[Tactical Simulacra II] Featured Combat Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1795@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241222T035500
+DTEND;TZID=Asia/Kuala_Lumpur:20241222T035500
+SUMMARY:Wuthering Waves Version Update Preview | Version 2.0 All Silent Souls Can Sing Planned for Release on Jan 02\, 2025
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Update Preview | Version 2.0 All Silent Souls Can Sing Planned for Release on Jan 02\, 2025
+END:VEVENT
+BEGIN:VEVENT
+UID:1803@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241224T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241224T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1822@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241228T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20241228T020000
+SUMMARY:Wuthering Waves Version 2.0 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.0 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:1864@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20241231T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20241231T190000
+SUMMARY:Wuthering Waves Update Preview | Version 2.0 "All Silent Souls Can Sing" to be released on Jan 2nd\, 2025 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Preview | Version 2.0 "All Silent Souls Can Sing" to be released on Jan 2nd\, 2025 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:1883@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250102T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20250102T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:1897@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250101T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250101T190000
+SUMMARY:[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta
+DESCRIPTION:鸣潮官方活动公告\n[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta
+END:VEVENT
+BEGIN:VEVENT
+UID:1898@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250101T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250101T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance
+END:VEVENT
+BEGIN:VEVENT
+UID:1899@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250101T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20250101T191000
+SUMMARY:[Chromatic Prose] Featured Resonator Convene: Boosted Drop Rate for Zhezhi
+DESCRIPTION:鸣潮官方活动公告\n[Chromatic Prose] Featured Resonator Convene: Boosted Drop Rate for Zhezhi
+END:VEVENT
+BEGIN:VEVENT
+UID:1901@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250101T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250101T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Rime-Draped Sprouts
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Rime-Draped Sprouts
+END:VEVENT
+BEGIN:VEVENT
+UID:1905@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250101T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250101T200000
+SUMMARY:Event Preview | Tactical Hologram: Phantom Pain Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | Tactical Hologram: Phantom Pain Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:1912@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250102T173000
+DTEND;TZID=Asia/Kuala_Lumpur:20250102T173000
+SUMMARY:Version 2.0: All Silent Souls Can Sing Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 2.0: All Silent Souls Can Sing Patch Notes
+END:VEVENT
+BEGIN:VEVENT
+UID:1935@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250103T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20250103T040000
+SUMMARY:Wuthering Waves Fan Creation Event "All Silent Souls Can Sing" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "All Silent Souls Can Sing" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:1945@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250107T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20250107T170000
+SUMMARY:V2.0 WUWA Discord Quest Event Begins!
+DESCRIPTION:鸣潮官方活动公告\nV2.0 WUWA Discord Quest Event Begins!
+END:VEVENT
+BEGIN:VEVENT
+UID:1954@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250108T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250108T190000
+SUMMARY:[Although Colors Have No Form] Featured Co-op Challenge Event
+DESCRIPTION:鸣潮官方活动公告\n[Although Colors Have No Form] Featured Co-op Challenge Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1984@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250115T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250115T190000
+SUMMARY:[Wuthering Exploration] Featured Exploration Event: Nimbus Sanctum
+DESCRIPTION:鸣潮官方活动公告\n[Wuthering Exploration] Featured Exploration Event: Nimbus Sanctum
+END:VEVENT
+BEGIN:VEVENT
+UID:1985@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250115T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250115T200000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2021@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250121T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250121T200000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.0
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.0
+END:VEVENT
+BEGIN:VEVENT
+UID:2044@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250122T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250122T190000
+SUMMARY:[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia
+DESCRIPTION:鸣潮官方活动公告\n[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia
+END:VEVENT
+BEGIN:VEVENT
+UID:2045@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250122T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20250122T191000
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2046@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250122T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250122T191500
+SUMMARY:[Thawborn Renewal] Featured Resonator Convene: Boosted Drop Rate for Jinhsi
+DESCRIPTION:鸣潮官方活动公告\n[Thawborn Renewal] Featured Resonator Convene: Boosted Drop Rate for Jinhsi
+END:VEVENT
+BEGIN:VEVENT
+UID:2047@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250122T192000
+DTEND;TZID=Asia/Kuala_Lumpur:20250122T192000
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Ages of Harvest
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Ages of Harvest
+END:VEVENT
+BEGIN:VEVENT
+UID:2066@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250128T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250128T200000
+SUMMARY:[Lollo Campaign: Comeback] Featured Commission Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Campaign: Comeback] Featured Commission Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2069@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250205T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250205T190000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2072@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250208T035500
+DTEND;TZID=Asia/Kuala_Lumpur:20250208T035500
+SUMMARY:Wuthering Waves Version 2.1 "Waves Sing\, and the Cerulean Bird Calls" is coming soon.
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.1 "Waves Sing\, and the Cerulean Bird Calls" is coming soon.
+END:VEVENT
+BEGIN:VEVENT
+UID:2083@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250208T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250208T190000
+SUMMARY:Wuthering Waves Version 2.1 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.1 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:2100@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250209T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250209T200000
+SUMMARY:Event Preview | [Old Man and the Whale] Fishing Adventure Event Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Old Man and the Whale] Fishing Adventure Event Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:2123@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250212T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20250212T000000
+SUMMARY:Waves Sing\, and the Cerulean Bird Calls — Version 2.1 Update Content
+DESCRIPTION:鸣潮官方活动公告\nWaves Sing\, and the Cerulean Bird Calls — Version 2.1 Update Content
+END:VEVENT
+BEGIN:VEVENT
+UID:2135@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T030000
+DTEND;TZID=Asia/Kuala_Lumpur:20250213T030000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:2141@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T015707
+DTEND;TZID=Asia/Kuala_Lumpur:20250213T015707
+SUMMARY:[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe
+DESCRIPTION:鸣潮官方活动公告\n[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe
+END:VEVENT
+BEGIN:VEVENT
+UID:2142@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T020010
+DTEND;TZID=Asia/Kuala_Lumpur:20250213T020010
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn
+END:VEVENT
+BEGIN:VEVENT
+UID:2154@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250213T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250213T180000
+SUMMARY:Patch Notes for Version 2.1: Waves Sing\, and the Cerulean Bird Calls
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 2.1: Waves Sing\, and the Cerulean Bird Calls
+END:VEVENT
+BEGIN:VEVENT
+UID:2162@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250214T050000
+DTEND;TZID=Asia/Kuala_Lumpur:20250214T050000
+SUMMARY:Wuthering Waves Fan Creation Event "Waves Sing\, and the Cerulean Bird Calls" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Waves Sing\, and the Cerulean Bird Calls" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:2173@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250218T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250218T190000
+SUMMARY:[Apex Ragunna] Featured Co-op Overdash Event
+DESCRIPTION:鸣潮官方活动公告\n[Apex Ragunna] Featured Co-op Overdash Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2180@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250219T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250219T200000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2193@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250226T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250226T190000
+SUMMARY:[Tactical Simulacra Ⅲ] Featured Combat Event
+DESCRIPTION:鸣潮官方活动公告\n[Tactical Simulacra Ⅲ] Featured Combat Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2219@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250305T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20250305T010000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.1
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.1
+END:VEVENT
+BEGIN:VEVENT
+UID:2226@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250305T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250305T190000
+SUMMARY:[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant
+DESCRIPTION:鸣潮官方活动公告\n[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant
+END:VEVENT
+BEGIN:VEVENT
+UID:2227@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250305T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250305T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor
+END:VEVENT
+BEGIN:VEVENT
+UID:2228@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250305T193000
+DTEND;TZID=Asia/Kuala_Lumpur:20250305T193000
+SUMMARY:[Vermillion's Ploy] Featured Resonator Convene: Boosted Drop Rate for Changli
+DESCRIPTION:鸣潮官方活动公告\n[Vermillion's Ploy] Featured Resonator Convene: Boosted Drop Rate for Changli
+END:VEVENT
+BEGIN:VEVENT
+UID:2229@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250305T194500
+DTEND;TZID=Asia/Kuala_Lumpur:20250305T194500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Brilliance
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Brilliance
+END:VEVENT
+BEGIN:VEVENT
+UID:2261@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250312T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250312T190000
+SUMMARY:[Beyond the Waves] Featured Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Beyond the Waves] Featured Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2273@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250320T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250320T190000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2297@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250322T035500
+DTEND;TZID=Asia/Kuala_Lumpur:20250322T035500
+SUMMARY:Wuthering Waves Version Update Preview | Version 2.2 "Tangled Truth in Inverted Tower" Planned for Release on March 27\, 2025 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Update Preview | Version 2.2 "Tangled Truth in Inverted Tower" Planned for Release on March 27\, 2025 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:2302@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250322T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250322T190000
+SUMMARY:Wuthering Waves Version 2.2 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.2 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:2329@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250326T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20250326T000000
+SUMMARY:Wuthering Waves Update Content | Version 2.2 "Tangled Truth in Inverted Tower" Planned for Release on March 27(UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.2 "Tangled Truth in Inverted Tower" Planned for Release on March 27(UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:2340@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250326T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250326T190000
+SUMMARY:[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella
+DESCRIPTION:鸣潮官方活动公告\n[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella
+END:VEVENT
+BEGIN:VEVENT
+UID:2341@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250326T193000
+DTEND;TZID=Asia/Kuala_Lumpur:20250326T193000
+SUMMARY:[End of Lost Trail] Featured Resonator Convene: Boosted Drop Rate for Camellya
+DESCRIPTION:鸣潮官方活动公告\n[End of Lost Trail] Featured Resonator Convene: Boosted Drop Rate for Camellya
+END:VEVENT
+BEGIN:VEVENT
+UID:2342@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250326T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250326T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens
+END:VEVENT
+BEGIN:VEVENT
+UID:2343@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250326T194500
+DTEND;TZID=Asia/Kuala_Lumpur:20250326T194500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Red Spring
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Red Spring
+END:VEVENT
+BEGIN:VEVENT
+UID:2369@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250327T050000
+DTEND;TZID=Asia/Kuala_Lumpur:20250327T050000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:2381@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250327T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250327T180000
+SUMMARY:Version 2.2: Tangled Truth in Inverted Tower Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 2.2: Tangled Truth in Inverted Tower Patch Notes
+END:VEVENT
+BEGIN:VEVENT
+UID:2382@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250327T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250327T200000
+SUMMARY:Wuthering Waves Fan Creation Event "Tangled Truth in Inverted Tower" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Tangled Truth in Inverted Tower" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:2396@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250402T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250402T190000
+SUMMARY:[Virtual Crisis: Prototype Trials] Crisis Trial Challenge Event
+DESCRIPTION:鸣潮官方活动公告\n[Virtual Crisis: Prototype Trials] Crisis Trial Challenge Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2404@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250406T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250406T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2415@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250409T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250409T190000
+SUMMARY:[Lollo Campaign: Set Sail] Featured Commission Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Campaign: Set Sail] Featured Commission Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2422@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250409T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250409T200000
+SUMMARY:[Ragunna Weather Forecast] Featured Platforming Event
+DESCRIPTION:鸣潮官方活动公告\n[Ragunna Weather Forecast] Featured Platforming Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2432@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250413T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250413T190000
+SUMMARY:[Wuthering Exploration] Featured Exploration Event: Whisperwind Haven
+DESCRIPTION:鸣潮官方活动公告\n[Wuthering Exploration] Featured Exploration Event: Whisperwind Haven
+END:VEVENT
+BEGIN:VEVENT
+UID:2443@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250415T015418
+DTEND;TZID=Asia/Kuala_Lumpur:20250415T015418
+SUMMARY:Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event
+DESCRIPTION:鸣潮官方活动公告\nNotice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2452@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250416T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250416T190000
+SUMMARY:[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper
+DESCRIPTION:鸣潮官方活动公告\n[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper
+END:VEVENT
+BEGIN:VEVENT
+UID:2459@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250416T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250416T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony
+END:VEVENT
+BEGIN:VEVENT
+UID:2465@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250417T010851
+DTEND;TZID=Asia/Kuala_Lumpur:20250417T010851
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.2
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.2
+END:VEVENT
+BEGIN:VEVENT
+UID:2485@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250420T045500
+DTEND;TZID=Asia/Kuala_Lumpur:20250420T045500
+SUMMARY:Wuthering Waves Version Preview | Version 2.3
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 2.3
+END:VEVENT
+BEGIN:VEVENT
+UID:2487@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250423T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250423T190000
+SUMMARY:Wuthering Waves Version 2.3 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.3 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:2504@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250425T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250425T200000
+SUMMARY:Event Preview | [Cube\, Cubic n Cubie] Anniversary Combat Event\, Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Cube\, Cubic n Cubie] Anniversary Combat Event\, Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:2513@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250427T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250427T020000
+SUMMARY:Event Preview | [Cubie Derby] Anniversary Events\, Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Cubie Derby] Anniversary Events\, Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:2517@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250428T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250428T020000
+SUMMARY:Wuthering Waves Update Content | Version 2.3 "Fiery Arpeggio of Summer Reunion" Planned for Release on April 29 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.3 "Fiery Arpeggio of Summer Reunion" Planned for Release on April 29 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:2532@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250429T021456
+DTEND;TZID=Asia/Kuala_Lumpur:20250429T021456
+SUMMARY:[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani
+DESCRIPTION:鸣潮官方活动公告\n[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani
+END:VEVENT
+BEGIN:VEVENT
+UID:2534@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250429T021724
+DTEND;TZID=Asia/Kuala_Lumpur:20250429T021724
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice
+END:VEVENT
+BEGIN:VEVENT
+UID:2561@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250429T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250429T180000
+SUMMARY:Version 2.3: Fiery Arpeggio of Summer Reunion Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 2.3: Fiery Arpeggio of Summer Reunion Patch Notes
+END:VEVENT
+BEGIN:VEVENT
+UID:2569@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250429T220000
+DTEND;TZID=Asia/Kuala_Lumpur:20250429T220000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:2577@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250430T030000
+DTEND;TZID=Asia/Kuala_Lumpur:20250430T030000
+SUMMARY:Wuthering Waves Fan Creation Event "Fiery Arpeggio of Summer Reunion" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Fiery Arpeggio of Summer Reunion" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:2584@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250501T005236
+DTEND;TZID=Asia/Kuala_Lumpur:20250501T005236
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2602@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250513T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250513T190000
+SUMMARY:[Cubie Derby] Anniversary Spectator Event
+DESCRIPTION:鸣潮官方活动公告\n[Cubie Derby] Anniversary Spectator Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2626@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250519T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250519T190000
+SUMMARY:Event Preview | Dreaming Deep: Solaris Film Festival\, Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | Dreaming Deep: Solaris Film Festival\, Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:2631@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250521T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20250521T010000
+SUMMARY:A Compilation of Upcoming Events in Version 2.3
+DESCRIPTION:鸣潮官方活动公告\nA Compilation of Upcoming Events in Version 2.3
+END:VEVENT
+BEGIN:VEVENT
+UID:2640@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250521T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250521T180000
+SUMMARY:[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona
+DESCRIPTION:鸣潮官方活动公告\n[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona
+END:VEVENT
+BEGIN:VEVENT
+UID:2647@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250521T183000
+DTEND;TZID=Asia/Kuala_Lumpur:20250521T183000
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria
+END:VEVENT
+BEGIN:VEVENT
+UID:2684@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250523T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250523T190000
+SUMMARY:[Gifts of Grand Celebration] Anniversary Limited-Time Login Event
+DESCRIPTION:鸣潮官方活动公告\n[Gifts of Grand Celebration] Anniversary Limited-Time Login Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2691@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250528T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250528T180000
+SUMMARY:[Beyond the Waves: Rinascita] Featured Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Beyond the Waves: Rinascita] Featured Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2699@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250531T034500
+DTEND;TZID=Asia/Kuala_Lumpur:20250531T034500
+SUMMARY:Wuthering Waves Version Preview | Version 2.4
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 2.4
+END:VEVENT
+BEGIN:VEVENT
+UID:2721@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250605T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250605T190000
+SUMMARY:Event Preview | [All Out! Towards the Peaks of Prestige] Echo Combat Event\, Available Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [All Out! Towards the Peaks of Prestige] Echo Combat Event\, Available Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:2733@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250606T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250606T180000
+SUMMARY:Wuthering Waves Version 2.4 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.4 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:2762@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250611T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250611T020000
+SUMMARY:Wuthering Waves Update Content | Version 2.4 "Lightly We Toss the Crown" Planned for Release on June 12 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.4 "Lightly We Toss the Crown" Planned for Release on June 12 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:2766@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250611T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250611T190000
+SUMMARY:[Dance in the Storm's Wake] Featured Resonator Convene: Boosted Drop Rate for Cartethyia
+DESCRIPTION:鸣潮官方活动公告\n[Dance in the Storm's Wake] Featured Resonator Convene: Boosted Drop Rate for Cartethyia
+END:VEVENT
+BEGIN:VEVENT
+UID:2773@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250611T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250611T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Defier's Thorn
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Defier's Thorn
+END:VEVENT
+BEGIN:VEVENT
+UID:2801@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250612T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250612T180000
+SUMMARY:Patch Notes for Version 2.4: Lightly We Toss the Crown
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 2.4: Lightly We Toss the Crown
+END:VEVENT
+BEGIN:VEVENT
+UID:2802@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250613T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20250613T170000
+SUMMARY:V2.4 WUWA Discord Quest Event is Now Live
+DESCRIPTION:鸣潮官方活动公告\nV2.4 WUWA Discord Quest Event is Now Live
+END:VEVENT
+BEGIN:VEVENT
+UID:2808@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250612T230000
+DTEND;TZID=Asia/Kuala_Lumpur:20250612T230000
+SUMMARY:Wuthering Waves Fan Creation Event "Lightly We Toss the Crown" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Lightly We Toss the Crown" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:2810@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250612T223000
+DTEND;TZID=Asia/Kuala_Lumpur:20250612T223000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:2826@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250618T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250618T180000
+SUMMARY:[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event
+DESCRIPTION:鸣潮官方活动公告\n[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2839@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250625T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250625T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2861@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250701T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250701T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.4
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.4
+END:VEVENT
+BEGIN:VEVENT
+UID:2867@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250702T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250702T190000
+SUMMARY:[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa
+DESCRIPTION:鸣潮官方活动公告\n[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa
+END:VEVENT
+BEGIN:VEVENT
+UID:2874@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250702T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250702T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark
+END:VEVENT
+BEGIN:VEVENT
+UID:2891@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250709T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250709T190000
+SUMMARY:[Lollo Campaign: Verification] Featured Commission Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Campaign: Verification] Featured Commission Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2901@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250719T035500
+DTEND;TZID=Asia/Kuala_Lumpur:20250719T035500
+SUMMARY:Wuthering Waves Version Update Preview | Version 2.5
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Update Preview | Version 2.5
+END:VEVENT
+BEGIN:VEVENT
+UID:2908@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250719T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250719T190000
+SUMMARY:Wuthering Waves Version 2.5 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.5 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:2927@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250723T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250723T020000
+SUMMARY:Wuthering Waves Update Content | Version 2.5 "Unfading Melody of Life" Planned for Release on July 24 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.5 "Unfading Melody of Life" Planned for Release on July 24 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:2936@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250723T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250723T190000
+SUMMARY:[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova
+DESCRIPTION:鸣潮官方活动公告\n[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova
+END:VEVENT
+BEGIN:VEVENT
+UID:2943@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250723T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250723T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy
+END:VEVENT
+BEGIN:VEVENT
+UID:2950@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250723T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20250723T191000
+SUMMARY:[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia
+DESCRIPTION:鸣潮官方活动公告\n[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia
+END:VEVENT
+BEGIN:VEVENT
+UID:2957@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250723T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250723T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy
+END:VEVENT
+BEGIN:VEVENT
+UID:2966@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250724T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250724T180000
+SUMMARY:Patch Notes for Version 2.5: Unfading Melody of Life
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 2.5: Unfading Melody of Life
+END:VEVENT
+BEGIN:VEVENT
+UID:2967@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250724T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20250724T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:2981@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250724T220000
+DTEND;TZID=Asia/Kuala_Lumpur:20250724T220000
+SUMMARY:Wuthering Waves Fan Creation Event "Unfading Melody of Life" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Unfading Melody of Life" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:2991@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250725T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20250725T200000
+SUMMARY:Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3002@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250806T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250806T190000
+SUMMARY:[Overflowing Picture Book] Leisure Event
+DESCRIPTION:鸣潮官方活动公告\n[Overflowing Picture Book] Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3012@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250813T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250813T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.5
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.5
+END:VEVENT
+BEGIN:VEVENT
+UID:3017@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250813T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250813T190000
+SUMMARY:[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella
+DESCRIPTION:鸣潮官方活动公告\n[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella
+END:VEVENT
+BEGIN:VEVENT
+UID:3025@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250813T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250813T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens
+END:VEVENT
+BEGIN:VEVENT
+UID:3035@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250813T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20250813T191000
+SUMMARY:[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant
+DESCRIPTION:鸣潮官方活动公告\n[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant
+END:VEVENT
+BEGIN:VEVENT
+UID:3042@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250813T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250813T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor
+END:VEVENT
+BEGIN:VEVENT
+UID:3070@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250817T035500
+DTEND;TZID=Asia/Kuala_Lumpur:20250817T035500
+SUMMARY:Wuthering Waves Version Preview | Version 2.6
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 2.6
+END:VEVENT
+BEGIN:VEVENT
+UID:3075@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250818T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250818T190000
+SUMMARY:Wuthering Waves Version 2.6 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.6 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:3078@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250817T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250817T190000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3128@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250826T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250826T020000
+SUMMARY:Wuthering Waves Update Content | Version 2.6 "By Sun's Scourge\, By Moon's Revelation" Planned for Release on August 28 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.6 "By Sun's Scourge\, By Moon's Revelation" Planned for Release on August 28 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3154@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250827T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250827T190000
+SUMMARY:[Eternal Radiance on the Crown] Featured Resonator Convene: Boosted Drop Rate for Augusta
+DESCRIPTION:鸣潮官方活动公告\n[Eternal Radiance on the Crown] Featured Resonator Convene: Boosted Drop Rate for Augusta
+END:VEVENT
+BEGIN:VEVENT
+UID:3155@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250827T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250827T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Thunderflare Dominion
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Thunderflare Dominion
+END:VEVENT
+BEGIN:VEVENT
+UID:3157@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250827T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20250827T191000
+SUMMARY:[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta
+DESCRIPTION:鸣潮官方活动公告\n[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta
+END:VEVENT
+BEGIN:VEVENT
+UID:3164@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250827T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250827T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance
+END:VEVENT
+BEGIN:VEVENT
+UID:3171@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250827T192000
+DTEND;TZID=Asia/Kuala_Lumpur:20250827T192000
+SUMMARY:[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper
+DESCRIPTION:鸣潮官方活动公告\n[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper
+END:VEVENT
+BEGIN:VEVENT
+UID:3178@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250827T192500
+DTEND;TZID=Asia/Kuala_Lumpur:20250827T192500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony
+END:VEVENT
+BEGIN:VEVENT
+UID:3193@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250828T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20250828T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:3194@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250828T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250828T180000
+SUMMARY:Patch Notes for Version 2.6: By Sun's Scourge\, By Moon's Revelation
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 2.6: By Sun's Scourge\, By Moon's Revelation
+END:VEVENT
+BEGIN:VEVENT
+UID:3209@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250828T230000
+DTEND;TZID=Asia/Kuala_Lumpur:20250828T230000
+SUMMARY:Wuthering Waves Fan Creation Event "By Sun's Scourge\, By Moon's Revelation" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "By Sun's Scourge\, By Moon's Revelation" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:3215@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250830T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20250830T010000
+SUMMARY:Wuthering Waves [Tidal Photography]: The Search for Solaris' Top Photographers Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves [Tidal Photography]: The Search for Solaris' Top Photographers Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:3216@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250830T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20250830T000000
+SUMMARY:Event Preview | [Tidal Defense Simulator] Tacet Discord Tower Defense Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Tidal Defense Simulator] Tacet Discord Tower Defense Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:3223@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250902T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250902T190000
+SUMMARY:[Marks of the Wild] Limited-Time Puzzle Event
+DESCRIPTION:鸣潮官方活动公告\n[Marks of the Wild] Limited-Time Puzzle Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3230@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250910T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250910T180000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3253@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250915T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250915T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.6
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.6
+END:VEVENT
+BEGIN:VEVENT
+UID:3260@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250916T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250916T190000
+SUMMARY:[Across Time's Waxes and Wanes] Featured Resonator Convene: Boosted Drop Rate for Iuno
+DESCRIPTION:鸣潮官方活动公告\n[Across Time's Waxes and Wanes] Featured Resonator Convene: Boosted Drop Rate for Iuno
+END:VEVENT
+BEGIN:VEVENT
+UID:3267@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250916T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20250916T190500
+SUMMARY:[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona
+DESCRIPTION:鸣潮官方活动公告\n[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona
+END:VEVENT
+BEGIN:VEVENT
+UID:3274@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250916T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20250916T191000
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Moongazer's Sigil
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Moongazer's Sigil
+END:VEVENT
+BEGIN:VEVENT
+UID:3281@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250916T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20250916T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria
+END:VEVENT
+BEGIN:VEVENT
+UID:3288@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250917T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20250917T000000
+SUMMARY:[Second Coming of Solaris (Ultra)] Leisure Event
+DESCRIPTION:鸣潮官方活动公告\n[Second Coming of Solaris (Ultra)] Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3295@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250917T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20250917T020000
+SUMMARY:[Gifts of the Moon Roamer] Event Details
+DESCRIPTION:鸣潮官方活动公告\n[Gifts of the Moon Roamer] Event Details
+END:VEVENT
+BEGIN:VEVENT
+UID:3310@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250927T035500
+DTEND;TZID=Asia/Kuala_Lumpur:20250927T035500
+SUMMARY:Wuthering Waves Version Preview | Version 2.7 "Dawn Breaks on Dark Tides" Scheduled for Release on October 9th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 2.7 "Dawn Breaks on Dark Tides" Scheduled for Release on October 9th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3317@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250924T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20250924T190000
+SUMMARY:[Moonlit Revelation] Lunar Phase Divination Event
+DESCRIPTION:鸣潮官方活动公告\n[Moonlit Revelation] Lunar Phase Divination Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3323@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250924T193000
+DTEND;TZID=Asia/Kuala_Lumpur:20250924T193000
+SUMMARY:[Beyond the Waves: Rinascita] Featured Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Beyond the Waves: Rinascita] Featured Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3332@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251007T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251007T020000
+SUMMARY:Wuthering Waves Update Content | Version 2.7 "Dawn Breaks on Dark Tides" Planned for Release on October 9 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.7 "Dawn Breaks on Dark Tides" Planned for Release on October 9 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3340@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251003T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251003T020000
+SUMMARY:Wuthering Waves Version 2.7 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.7 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:3365@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20250930T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20250930T180000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3371@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251004T002444
+DTEND;TZID=Asia/Kuala_Lumpur:20251004T002444
+SUMMARY:Notes on promotional event a certain platform
+DESCRIPTION:鸣潮官方活动公告\nNotes on promotional event a certain platform
+END:VEVENT
+BEGIN:VEVENT
+UID:3380@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251008T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251008T190000
+SUMMARY:[From Ashes] Featured Resonator Convene: Boosted Drop Rate for Galbrena
+DESCRIPTION:鸣潮官方活动公告\n[From Ashes] Featured Resonator Convene: Boosted Drop Rate for Galbrena
+END:VEVENT
+BEGIN:VEVENT
+UID:3387@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251008T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20251008T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lux & Umbra
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lux & Umbra
+END:VEVENT
+BEGIN:VEVENT
+UID:3394@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251008T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20251008T191000
+SUMMARY:[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa
+DESCRIPTION:鸣潮官方活动公告\n[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa
+END:VEVENT
+BEGIN:VEVENT
+UID:3401@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251008T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20251008T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark
+END:VEVENT
+BEGIN:VEVENT
+UID:3412@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251009T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20251009T180000
+SUMMARY:Patch Notes for Version 2.7: Dawn Breaks on Dark Tides
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 2.7: Dawn Breaks on Dark Tides
+END:VEVENT
+BEGIN:VEVENT
+UID:3417@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251010T053000
+DTEND;TZID=Asia/Kuala_Lumpur:20251010T053000
+SUMMARY:Wuthering Waves Fan Creation Event "Dawn Breaks on Dark Tides" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Dawn Breaks on Dark Tides" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:3419@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251010T050000
+DTEND;TZID=Asia/Kuala_Lumpur:20251010T050000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:3431@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251010T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251010T190000
+SUMMARY:[Lament Recon: Solaris Soldier] Combat Event
+DESCRIPTION:鸣潮官方活动公告\n[Lament Recon: Solaris Soldier] Combat Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3447@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251016T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251016T020000
+SUMMARY:[Septimont Weather Forecast] Featured Platforming Event
+DESCRIPTION:鸣潮官方活动公告\n[Septimont Weather Forecast] Featured Platforming Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3462@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251022T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20251022T180000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3484@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251029T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251029T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.7
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.7
+END:VEVENT
+BEGIN:VEVENT
+UID:3494@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251029T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251029T190000
+SUMMARY:[Wanderer Knows No Far and Near] Featured Resonator Convene: Boosted Drop Rate for Qiuyuan
+DESCRIPTION:鸣潮官方活动公告\n[Wanderer Knows No Far and Near] Featured Resonator Convene: Boosted Drop Rate for Qiuyuan
+END:VEVENT
+BEGIN:VEVENT
+UID:3501@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251029T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20251029T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Emerald Sentence
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Emerald Sentence
+END:VEVENT
+BEGIN:VEVENT
+UID:3509@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251029T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20251029T191000
+SUMMARY:[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani
+DESCRIPTION:鸣潮官方活动公告\n[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani
+END:VEVENT
+BEGIN:VEVENT
+UID:3516@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251029T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20251029T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice
+END:VEVENT
+BEGIN:VEVENT
+UID:3523@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251030T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20251030T000000
+SUMMARY:[Freeze Frame: Action Highlights] Combat Photography Event
+DESCRIPTION:鸣潮官方活动公告\n[Freeze Frame: Action Highlights] Combat Photography Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3541@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251105T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251105T190000
+SUMMARY:[Lollo Campaign: Ice Savior] Featured Commission Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Campaign: Ice Savior] Featured Commission Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3554@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251111T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251111T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3572@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251115T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20251115T040000
+SUMMARY:Wuthering Waves Version Preview | Version 2.8 "To the City Set in Amber" Scheduled for Release on November 20th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 2.8 "To the City Set in Amber" Scheduled for Release on November 20th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3583@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251115T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20251115T180000
+SUMMARY:Wuthering Waves Version 2.8 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 2.8 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:3603@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251118T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251118T020000
+SUMMARY:Event Preview | [Stranger Things in Honami] Combat Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Stranger Things in Honami] Combat Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:3613@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251119T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251119T020000
+SUMMARY:Wuthering Waves Update Content | Version 2.8 "To the City Set in Amber" Planned for Release on November 20th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 2.8 "To the City Set in Amber" Planned for Release on November 20th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3616@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251119T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251119T190000
+SUMMARY:[Horizon of Dawnbreak] Featured Resonator Convene: Boosted Drop Rate for Chisa
+DESCRIPTION:鸣潮官方活动公告\n[Horizon of Dawnbreak] Featured Resonator Convene: Boosted Drop Rate for Chisa
+END:VEVENT
+BEGIN:VEVENT
+UID:3623@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251119T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20251119T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Kumokiri
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Kumokiri
+END:VEVENT
+BEGIN:VEVENT
+UID:3631@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251119T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20251119T191000
+SUMMARY:[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe
+DESCRIPTION:鸣潮官方活动公告\n[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe
+END:VEVENT
+BEGIN:VEVENT
+UID:3639@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251119T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20251119T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn
+END:VEVENT
+BEGIN:VEVENT
+UID:3648@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251120T230000
+DTEND;TZID=Asia/Kuala_Lumpur:20251120T230000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:3657@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251120T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20251120T180000
+SUMMARY:Patch Notes for Version 2.8: To the City Set in Amber
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 2.8: To the City Set in Amber
+END:VEVENT
+BEGIN:VEVENT
+UID:3664@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251121T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20251121T010000
+SUMMARY:Wuthering Waves Fan Creation Event "To the City Set in Amber" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "To the City Set in Amber" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:3672@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251126T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20251126T180000
+SUMMARY:[Tactical Simulacra: Off Tune] Featured Combat Event
+DESCRIPTION:鸣潮官方活动公告\n[Tactical Simulacra: Off Tune] Featured Combat Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3684@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251207T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251207T190000
+SUMMARY:[Lollo Campaign: Rising Anew] Featured Commission Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Campaign: Rising Anew] Featured Commission Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3691@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251203T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251203T190000
+SUMMARY:Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event
+DESCRIPTION:鸣潮官方活动公告\nNotice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3714@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251209T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251209T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 2.8
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 2.8
+END:VEVENT
+BEGIN:VEVENT
+UID:3723@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251210T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251210T190000
+SUMMARY:[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova
+DESCRIPTION:鸣潮官方活动公告\n[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova
+END:VEVENT
+BEGIN:VEVENT
+UID:3730@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251210T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20251210T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy
+END:VEVENT
+BEGIN:VEVENT
+UID:3737@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251210T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20251210T191000
+SUMMARY:[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella
+DESCRIPTION:鸣潮官方活动公告\n[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella
+END:VEVENT
+BEGIN:VEVENT
+UID:3744@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251210T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20251210T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens
+END:VEVENT
+BEGIN:VEVENT
+UID:3754@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251213T042500
+DTEND;TZID=Asia/Kuala_Lumpur:20251213T042500
+SUMMARY:Wuthering Waves Version Preview | Version 3.0 "We Who See the Stars" Scheduled for Release on December 25th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.0 "We Who See the Stars" Scheduled for Release on December 25th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3774@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251216T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251216T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3780@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251216T231008
+DTEND;TZID=Asia/Kuala_Lumpur:20251216T231008
+SUMMARY:Notes on promotional event a certain platform
+DESCRIPTION:鸣潮官方活动公告\nNotes on promotional event a certain platform
+END:VEVENT
+BEGIN:VEVENT
+UID:3800@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251218T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251218T190000
+SUMMARY:Wuthering Waves Version 3.0 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.0 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:3843@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251223T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20251223T020000
+SUMMARY:Wuthering Waves Update Content | Version 3.0 "We Who See the Stars" Planned for Release on December 25th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.0 "We Who See the Stars" Planned for Release on December 25th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:3858@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251224T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251224T190000
+SUMMARY:[Undefined Spectrum] Featured Resonator Convene: Lynae
+DESCRIPTION:鸣潮官方活动公告\n[Undefined Spectrum] Featured Resonator Convene: Lynae
+END:VEVENT
+BEGIN:VEVENT
+UID:3859@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251224T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20251224T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Spectrum Blaster
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Spectrum Blaster
+END:VEVENT
+BEGIN:VEVENT
+UID:3860@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251224T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20251224T191000
+SUMMARY:[Dance in the Storm's Wake] Featured Resonator Convene: Cartethyia
+DESCRIPTION:鸣潮官方活动公告\n[Dance in the Storm's Wake] Featured Resonator Convene: Cartethyia
+END:VEVENT
+BEGIN:VEVENT
+UID:3861@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251224T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20251224T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Defier's Thorn
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Defier's Thorn
+END:VEVENT
+BEGIN:VEVENT
+UID:3862@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251224T192000
+DTEND;TZID=Asia/Kuala_Lumpur:20251224T192000
+SUMMARY:[Through Verses and Rhythms] Featured Resonator Convene: Ciaccona
+DESCRIPTION:鸣潮官方活动公告\n[Through Verses and Rhythms] Featured Resonator Convene: Ciaccona
+END:VEVENT
+BEGIN:VEVENT
+UID:3863@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251224T192500
+DTEND;TZID=Asia/Kuala_Lumpur:20251224T192500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Woodland Aria
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Woodland Aria
+END:VEVENT
+BEGIN:VEVENT
+UID:3914@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251225T233000
+DTEND;TZID=Asia/Kuala_Lumpur:20251225T233000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:3920@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251225T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20251225T180000
+SUMMARY:Patch Notes for Version 3.0: We Who See the Stars
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 3.0: We Who See the Stars
+END:VEVENT
+BEGIN:VEVENT
+UID:3930@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251226T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20251226T000000
+SUMMARY:Wuthering Waves Fan Creation Event "We Who See the Stars" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "We Who See the Stars" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:3936@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251226T220000
+DTEND;TZID=Asia/Kuala_Lumpur:20251226T220000
+SUMMARY:V3.0 WUWA Discord Quest Livestream Event Begins!
+DESCRIPTION:鸣潮官方活动公告\nV3.0 WUWA Discord Quest Livestream Event Begins!
+END:VEVENT
+BEGIN:VEVENT
+UID:3941@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251227T050000
+DTEND;TZID=Asia/Kuala_Lumpur:20251227T050000
+SUMMARY:Wuthering Waves V3.0 Short-form Video Creative Event is officially live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves V3.0 Short-form Video Creative Event is officially live!
+END:VEVENT
+BEGIN:VEVENT
+UID:3946@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20251231T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20251231T190000
+SUMMARY:[Beyond the Waves: Lahai-Roi] Featured Exploration Event
+DESCRIPTION:鸣潮官方活动公告\n[Beyond the Waves: Lahai-Roi] Featured Exploration Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3962@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260107T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260107T190000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3993@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T000000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.0
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.0
+END:VEVENT
+BEGIN:VEVENT
+UID:4009@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T190000
+SUMMARY:[Distant May the Starlights Be] Featured Resonator Convene: Mornye
+DESCRIPTION:鸣潮官方活动公告\n[Distant May the Starlights Be] Featured Resonator Convene: Mornye
+END:VEVENT
+BEGIN:VEVENT
+UID:4017@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T190500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Starfield Calibrator
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Starfield Calibrator
+END:VEVENT
+BEGIN:VEVENT
+UID:4025@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T191000
+SUMMARY:[Eternal Radiance on the Crown] Featured Resonator Convene: Augusta
+DESCRIPTION:鸣潮官方活动公告\n[Eternal Radiance on the Crown] Featured Resonator Convene: Augusta
+END:VEVENT
+BEGIN:VEVENT
+UID:4033@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T191500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Thunderflare Dominion
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Thunderflare Dominion
+END:VEVENT
+BEGIN:VEVENT
+UID:4041@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T192000
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T192000
+SUMMARY:[Across Time's Waxes and Wanes] Featured Resonator Convene: Iuno
+DESCRIPTION:鸣潮官方活动公告\n[Across Time's Waxes and Wanes] Featured Resonator Convene: Iuno
+END:VEVENT
+BEGIN:VEVENT
+UID:4049@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260114T192500
+DTEND;TZID=Asia/Kuala_Lumpur:20260114T192500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Moongazer's Sigil
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Moongazer's Sigil
+END:VEVENT
+BEGIN:VEVENT
+UID:4064@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260121T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260121T190000
+SUMMARY:[Signs of a Silent Star] Leisure Event
+DESCRIPTION:鸣潮官方活动公告\n[Signs of a Silent Star] Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4081@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260124T040500
+DTEND;TZID=Asia/Kuala_Lumpur:20260124T040500
+SUMMARY:Version 3.1 "For You Who Walk in Snow" Special Updates
+DESCRIPTION:鸣潮官方活动公告\nVersion 3.1 "For You Who Walk in Snow" Special Updates
+END:VEVENT
+BEGIN:VEVENT
+UID:4082@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260124T041500
+DTEND;TZID=Asia/Kuala_Lumpur:20260124T041500
+SUMMARY:Wuthering Waves Version Preview | Version 3.1 "For You Who Walk in Snow" Scheduled for Release on February 5th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.1 "For You Who Walk in Snow" Scheduled for Release on February 5th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4100@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260130T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260130T190000
+SUMMARY:Rover's Signature Outfit "Perpetual Spark" will become available once Version 3.1 goes live.
+DESCRIPTION:鸣潮官方活动公告\nRover's Signature Outfit "Perpetual Spark" will become available once Version 3.1 goes live.
+END:VEVENT
+BEGIN:VEVENT
+UID:4102@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260129T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260129T190000
+SUMMARY:Wuthering Waves Version 3.1 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.1 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:4156@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260203T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260203T020000
+SUMMARY:Wuthering Waves Update Content | Version 3.1 "For You Who Walk in Snow" Planned for Release on February 5th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.1 "For You Who Walk in Snow" Planned for Release on February 5th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4167@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260204T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20260204T191500
+SUMMARY:[Version 3.1 Featured Resonator/Weapon Convene: Phase I]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.1 Featured Resonator/Weapon Convene: Phase I]
+END:VEVENT
+BEGIN:VEVENT
+UID:4172@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260206T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260206T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:4188@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260205T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260205T180000
+SUMMARY:Patch Notes for Version 3.1: For You Who Walk in Snow
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 3.1: For You Who Walk in Snow
+END:VEVENT
+BEGIN:VEVENT
+UID:4196@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260204T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260204T190000
+SUMMARY:[Take Flight in Spring] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[Take Flight in Spring] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4204@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260204T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260204T190500
+SUMMARY:[Everbright Polestar] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Everbright Polestar] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4224@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260206T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260206T200000
+SUMMARY:[Full Throttle! Bolt & Blitz!] Leisure Event
+DESCRIPTION:鸣潮官方活动公告\n[Full Throttle! Bolt & Blitz!] Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4233@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260206T050000
+DTEND;TZID=Asia/Kuala_Lumpur:20260206T050000
+SUMMARY:Wuthering Waves Fan Creation Event "For You Who Walk in Snow" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "For You Who Walk in Snow" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:4236@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260206T193000
+DTEND;TZID=Asia/Kuala_Lumpur:20260206T193000
+SUMMARY:V3.1 WUWA Discord Quest Livestream Event Begins!
+DESCRIPTION:鸣潮官方活动公告\nV3.1 WUWA Discord Quest Livestream Event Begins!
+END:VEVENT
+BEGIN:VEVENT
+UID:4256@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260218T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260218T190000
+SUMMARY:[Rein Back! Migration Mayhem!] Leisure Event
+DESCRIPTION:鸣潮官方活动公告\n[Rein Back! Migration Mayhem!] Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4264@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260219T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260219T020000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4275@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260214T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260214T020000
+SUMMARY:[Where Stars Cascade Down] Limited-Time Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\n[Where Stars Cascade Down] Limited-Time Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:4303@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260224T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260224T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.1
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.1
+END:VEVENT
+BEGIN:VEVENT
+UID:4321@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260225T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260225T190000
+SUMMARY:[When Winter Thaws] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[When Winter Thaws] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4329@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260225T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260225T190500
+SUMMARY:[Daybreaker's Spine] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Daybreaker's Spine] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4337@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260225T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260225T191000
+SUMMARY:[From Ashes] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[From Ashes] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4345@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260225T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20260225T191500
+SUMMARY:[Lux & Umbra] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Lux & Umbra] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4355@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260304T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260304T190000
+SUMMARY:[Lollo Campaign: Implementation] Featured Commission Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Campaign: Implementation] Featured Commission Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4368@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260310T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260310T190000
+SUMMARY:[Chord Cleansing] Limited-Time Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Chord Cleansing] Limited-Time Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4380@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260314T035000
+DTEND;TZID=Asia/Kuala_Lumpur:20260314T035000
+SUMMARY:Wuthering Waves Version Preview | Version 3.2 "Resolution to Illuminate the Shadows" Scheduled for Release on March 19th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.2 "Resolution to Illuminate the Shadows" Scheduled for Release on March 19th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4386@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260314T033000
+DTEND;TZID=Asia/Kuala_Lumpur:20260314T033000
+SUMMARY:High Difficulty Recurring Challenge: Endstate Matrix\, Coming in Version 3.2!
+DESCRIPTION:鸣潮官方活动公告\nHigh Difficulty Recurring Challenge: Endstate Matrix\, Coming in Version 3.2!
+END:VEVENT
+BEGIN:VEVENT
+UID:4403@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260315T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260315T020000
+SUMMARY:Wuthering Waves Version 3.2 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.2 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:4418@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260318T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260318T020000
+SUMMARY:Wuthering Waves Update Content | Version 3.2 "Resolution to Illuminate the Shadows" Planned for Release on March 19th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.2 "Resolution to Illuminate the Shadows" Planned for Release on March 19th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4429@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260319T030000
+DTEND;TZID=Asia/Kuala_Lumpur:20260319T030000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:4447@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260319T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260319T180000
+SUMMARY:Patch Notes for Version 3.2: Resolution to Illuminate the Shadows
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 3.2: Resolution to Illuminate the Shadows
+END:VEVENT
+BEGIN:VEVENT
+UID:4451@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260320T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20260320T000000
+SUMMARY:Wuthering Waves Fan Creation Event "Resolution to Illuminate the Shadows" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Resolution to Illuminate the Shadows" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:4458@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260401T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260401T190000
+SUMMARY:[Speed up! F.U.E.L. Instrumentality Project!] Leisure Event
+DESCRIPTION:鸣潮官方活动公告\n[Speed up! F.U.E.L. Instrumentality Project!] Leisure Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4466@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260402T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20260402T010000
+SUMMARY:[Bountiful Crescendo] Limited-Time Material Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n[Bountiful Crescendo] Limited-Time Material Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4480@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260407T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260407T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.2
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.2
+END:VEVENT
+BEGIN:VEVENT
+UID:4493@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260408T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260408T191000
+SUMMARY:[Version 3.2 Featured Resonator/Weapon Convene: Phase II]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.2 Featured Resonator/Weapon Convene: Phase II]
+END:VEVENT
+BEGIN:VEVENT
+UID:4506@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260415T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260415T190000
+SUMMARY:[The Flaming Red in Memory] Showcase Event
+DESCRIPTION:鸣潮官方活动公告\n[The Flaming Red in Memory] Showcase Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4519@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260418T041500
+DTEND;TZID=Asia/Kuala_Lumpur:20260418T041500
+SUMMARY:Version 3.3 "Reverbs From the End of Galaxies" Special Report
+DESCRIPTION:鸣潮官方活动公告\nVersion 3.3 "Reverbs From the End of Galaxies" Special Report
+END:VEVENT
+BEGIN:VEVENT
+UID:4528@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260418T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260418T190000
+SUMMARY:Wuthering Waves Version Preview | Version 3.3 "Reverbs From the End of Galaxies" Scheduled for Release on April 30th (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.3 "Reverbs From the End of Galaxies" Scheduled for Release on April 30th (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4547@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260422T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260422T190000
+SUMMARY:Wuthering Waves Version 3.3 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.3 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:4591@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260429T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260429T191000
+SUMMARY:[Version 3.3 Featured Resonator/Weapon Convene: Phase I]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.3 Featured Resonator/Weapon Convene: Phase I]
+END:VEVENT
+BEGIN:VEVENT
+UID:4605@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260430T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260430T020000
+SUMMARY:Wuthering Waves Update Content | Version 3.3 "Reverbs From the End of Galaxies" Planned for Release on April 30 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.3 "Reverbs From the End of Galaxies" Planned for Release on April 30 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4613@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260430T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260430T180000
+SUMMARY:Patch Notes for Version 3.3: Reverbs From the End of Galaxies
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 3.3: Reverbs From the End of Galaxies
+END:VEVENT
+BEGIN:VEVENT
+UID:4622@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260501T033000
+DTEND;TZID=Asia/Kuala_Lumpur:20260501T033000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:4626@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260501T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260501T040000
+SUMMARY:Wuthering Waves Fan Creation Event "Reverbs from the End of Galaxy" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Reverbs from the End of Galaxy" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:4627@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260502T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260502T020000
+SUMMARY:Event Preview | [Star Bouncing] Anniversary Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Star Bouncing] Anniversary Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:4636@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260507T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260507T020000
+SUMMARY:[Lollo Express: Promise Delivered] Anniversary Event
+DESCRIPTION:鸣潮官方活动公告\n[Lollo Express: Promise Delivered] Anniversary Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4644@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260507T023000
+DTEND;TZID=Asia/Kuala_Lumpur:20260507T023000
+SUMMARY:[Aced! Combat Mastery Test!] Featured Combat Event
+DESCRIPTION:鸣潮官方活动公告\n[Aced! Combat Mastery Test!] Featured Combat Event
+END:VEVENT
+BEGIN:VEVENT
+UID:4654@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260509T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260509T020000
+SUMMARY:Event Preview | [Cubie Derby: Championship] Anniversary Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Cubie Derby: Championship] Anniversary Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:4685@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260521T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260521T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.3
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.3
+END:VEVENT
+BEGIN:VEVENT
+UID:4691@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260520T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260520T191000
+SUMMARY:[Version 3.3 Featured Resonator/Weapon Convene: Phase Ⅱ]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.3 Featured Resonator/Weapon Convene: Phase Ⅱ]
+END:VEVENT
+BEGIN:VEVENT
+UID:4695@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260521T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20260521T010000
+SUMMARY:Event Preview | [Depths of Illusive Realm: Chromatic Fantasy] Featured Combat Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Depths of Illusive Realm: Chromatic Fantasy] Featured Combat Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:4712@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260520T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260520T190000
+SUMMARY:[False Promise for Tomorrow] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[False Promise for Tomorrow] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4720@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260520T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260520T190500
+SUMMARY:[Forged Dwarf Star] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Forged Dwarf Star] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4735@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260528T193000
+DTEND;TZID=Asia/Kuala_Lumpur:20260528T193000
+SUMMARY:Version 3.3 Phase II Wuthering Waves Wallpaper
+DESCRIPTION:鸣潮官方活动公告\nVersion 3.3 Phase II Wuthering Waves Wallpaper
+END:VEVENT
+BEGIN:VEVENT
+UID:4740@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260530T041000
+DTEND;TZID=Asia/Kuala_Lumpur:20260530T041000
+SUMMARY:Wuthering Waves Version Preview | Version 3.4 "The Dream Not Dreamed" Scheduled for Release on June 8 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.4 "The Dream Not Dreamed" Scheduled for Release on June 8 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4765@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260601T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260601T190000
+SUMMARY:Wuthering Waves Version 3.4 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.4 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:4791@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260608T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260608T020000
+SUMMARY:Wuthering Waves Update Content | Version 3.4 "The Dream Not Dreamed" Planned for Release on June 8 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.4 "The Dream Not Dreamed" Planned for Release on June 8 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:4792@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260608T023000
+DTEND;TZID=Asia/Kuala_Lumpur:20260608T023000
+SUMMARY:Event Preview | [Depths of Illusive Realm: Dreamchasers] Featured Combat Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Depths of Illusive Realm: Dreamchasers] Featured Combat Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:4819@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260608T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260608T180000
+SUMMARY:Patch Notes for Version 3.4: The Dream Not Dreamed
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 3.4: The Dream Not Dreamed
+END:VEVENT
+BEGIN:VEVENT
+UID:4823@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260609T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260609T040000
+SUMMARY:Wuthering Waves Fan Creation Event "The Dream Not Dreamed" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "The Dream Not Dreamed" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:4824@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260609T033000
+DTEND;TZID=Asia/Kuala_Lumpur:20260609T033000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:4885@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260612T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260612T190000
+SUMMARY:[Tomorrow in the Frame] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[Tomorrow in the Frame] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4894@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260612T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260612T190500
+SUMMARY:[Freeze Frame] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Freeze Frame] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:4910@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260614T203000
+DTEND;TZID=Asia/Kuala_Lumpur:20260614T203000
+SUMMARY:Version 3.4 Wuthering Waves Wallpaper
+DESCRIPTION:鸣潮官方活动公告\nVersion 3.4 Wuthering Waves Wallpaper
+END:VEVENT
+BEGIN:VEVENT
+UID:4916@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260617T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260617T180000
+SUMMARY:[Version 3.4 Featured Resonator/Weapon Convene: Phase II]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.4 Featured Resonator/Weapon Convene: Phase II]
+END:VEVENT
+BEGIN:VEVENT
+UID:4917@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260618T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20260618T000000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.4
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.4
+END:VEVENT
+BEGIN:VEVENT
+UID:4936@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260627T044000
+DTEND;TZID=Asia/Kuala_Lumpur:20260627T044000
+SUMMARY:Wuthering Waves Version Preview | Version 3.5 "Blade of Past Resounds\, Lingering Dream Hymns"
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.5 "Blade of Past Resounds\, Lingering Dream Hymns"
+END:VEVENT
+BEGIN:VEVENT
+UID:4973@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260703T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260703T190000
+SUMMARY:Wuthering Waves Version 3.5 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.5 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:5009@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:5023@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T010000
+SUMMARY:Wuthering Waves Update Content | Version 3.5 "Blade of Past Resounds\, Lingering Dream Hymns" Planned for Release on July 10 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.5 "Blade of Past Resounds\, Lingering Dream Hymns" Planned for Release on July 10 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:5039@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T191000
+SUMMARY:[Version 3.5 Featured Resonator/Weapon Convene: Phase I]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.5 Featured Resonator/Weapon Convene: Phase I]
+END:VEVENT
+BEGIN:VEVENT
+UID:5047@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T190000
+SUMMARY:[Voices on Azure Feathers] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[Voices on Azure Feathers] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:5056@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T190500
+SUMMARY:[Azure Oath] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Azure Oath] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:5091@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T180000
+SUMMARY:Version 3.5 Blade of Past Resounds\, Lingering Dream Hymns Content Overview
+DESCRIPTION:鸣潮官方活动公告\nVersion 3.5 Blade of Past Resounds\, Lingering Dream Hymns Content Overview
+END:VEVENT
+BEGIN:VEVENT
+UID:5094@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260711T010000
+DTEND;TZID=Asia/Kuala_Lumpur:20260711T010000
+SUMMARY:Wuthering Waves Fan Creation Event "Blade of Past Resounds\, Lingering Dream Hymns" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Blade of Past Resounds\, Lingering Dream Hymns" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:5129@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260711T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260711T020000
+SUMMARY:Event Preview | [Lament Recon: Tacet Crisis] Combat Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Lament Recon: Tacet Crisis] Combat Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:5208@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T020000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.5
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.5
+END:VEVENT
+BEGIN:VEVENT
+UID:5220@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:[Version 3.5 Featured Resonator/Weapon Convene: Phase II]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.5 Featured Resonator/Weapon Convene: Phase II]
+END:VEVENT
+BEGIN:VEVENT
+UID:5227@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:[Blessings From Dewy Winds] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[Blessings From Dewy Winds] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:5236@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T190500
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190500
+SUMMARY:[Firstlight's Herald] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Firstlight's Herald] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:5245@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260808T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260808T040000
+SUMMARY:Wuthering Waves Version Preview | Version 3.6 "Lamplight in Mirage\, Sword's Resolve in Heart"
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 3.6 "Lamplight in Mirage\, Sword's Resolve in Heart"
+END:VEVENT
+BEGIN:VEVENT
+UID:5281@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T190000
+SUMMARY:Wuthering Waves Version 3.6 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 3.6 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:5310@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T000000
+SUMMARY:Wuthering Waves Update Content | Version 3.6 "Lamplight in Mirage\, Sword's Resolve in Heart" Planned for Release on August 20 (UTC+8)
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Update Content | Version 3.6 "Lamplight in Mirage\, Sword's Resolve in Heart" Planned for Release on August 20 (UTC+8)
+END:VEVENT
+BEGIN:VEVENT
+UID:5318@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T191000
+SUMMARY:[Version 3.6 Featured Resonator/Weapon Convene: Phase I]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.6 Featured Resonator/Weapon Convene: Phase I]
+END:VEVENT
+BEGIN:VEVENT
+UID:5330@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T040000
+SUMMARY:Wuthering Waves Fan Creation Event Winners Reveal
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event Winners Reveal
+END:VEVENT
+BEGIN:VEVENT
+UID:5331@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T224102
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T224102
+SUMMARY:[Wind of Transcendence] Featured Resonator Convene
+DESCRIPTION:鸣潮官方活动公告\n[Wind of Transcendence] Featured Resonator Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:5332@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T225038
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T225038
+SUMMARY:[Glint of Clouds] Featured Weapon Convene
+DESCRIPTION:鸣潮官方活动公告\n[Glint of Clouds] Featured Weapon Convene
+END:VEVENT
+BEGIN:VEVENT
+UID:5349@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T000000
+SUMMARY:Wuthering Waves Fan Creation Event "Lamplight in Mirage\, Sword's Resolve in Heart" is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event "Lamplight in Mirage\, Sword's Resolve in Heart" is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:5357@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T180000
+SUMMARY:Patch Notes for Version 3.6: Lamplight in Mirage\, Sword's Resolve in Heart
+DESCRIPTION:鸣潮官方活动公告\nPatch Notes for Version 3.6: Lamplight in Mirage\, Sword's Resolve in Heart
+END:VEVENT
+BEGIN:VEVENT
+UID:5365@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260822T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20260822T020000
+SUMMARY:Event Preview | [Resonance Sim Realm] Combat Event\, Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Preview | [Resonance Sim Realm] Combat Event\, Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:5428@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T000000
+SUMMARY:Upcoming Events in Wuthering Waves Version 3.6
+DESCRIPTION:鸣潮官方活动公告\nUpcoming Events in Wuthering Waves Version 3.6
+END:VEVENT
+BEGIN:VEVENT
+UID:5431@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T191500
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T191500
+SUMMARY:[Version 3.6 Featured Resonator/Weapon Convene: Phase Ⅱ]
+DESCRIPTION:鸣潮官方活动公告\n[Version 3.6 Featured Resonator/Weapon Convene: Phase Ⅱ]
+END:VEVENT
+BEGIN:VEVENT
+UID:656@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240220T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240220T020000
+SUMMARY:Wuthering Waves Fan Creation Event
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event
+END:VEVENT
+BEGIN:VEVENT
+UID:799@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240525T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20240525T180000
+SUMMARY:Wuthering Waves Fan Creation Event is now live!
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Fan Creation Event is now live!
+END:VEVENT
+BEGIN:VEVENT
+UID:813@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240528T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240528T190000
+SUMMARY:Event Notice | Overdash Club — Limited-time Track Challenge Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | Overdash Club — Limited-time Track Challenge Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:827@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240603T020409
+DTEND;TZID=Asia/Kuala_Lumpur:20240603T020409
+SUMMARY:Announcement on "Wuthering Waves" 1.0 Version and Future Adjustment Directions
+DESCRIPTION:鸣潮官方活动公告\nAnnouncement on "Wuthering Waves" 1.0 Version and Future Adjustment Directions
+END:VEVENT
+BEGIN:VEVENT
+UID:836@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240606T000000
+DTEND;TZID=Asia/Kuala_Lumpur:20240606T000000
+SUMMARY:Event Notice | Alloy Smelt — Limited-time Battle Challenge Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nEvent Notice | Alloy Smelt — Limited-time Battle Challenge Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:846@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240606T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240606T020000
+SUMMARY:[When Thunder Pours] Featured Resonator Convene: Boosted Drop Rate for [Yinlin]
+DESCRIPTION:鸣潮官方活动公告\n[When Thunder Pours] Featured Resonator Convene: Boosted Drop Rate for [Yinlin]
+END:VEVENT
+BEGIN:VEVENT
+UID:847@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240606T020500
+DTEND;TZID=Asia/Kuala_Lumpur:20240606T020500
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for [Stringmaster]
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for [Stringmaster]
+END:VEVENT
+BEGIN:VEVENT
+UID:874@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240612T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240612T020000
+SUMMARY:Limited-time Special Event Notice | Wuthering Exploration Coming Soon!
+DESCRIPTION:鸣潮官方活动公告\nLimited-time Special Event Notice | Wuthering Exploration Coming Soon!
+END:VEVENT
+BEGIN:VEVENT
+UID:893@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240619T053000
+DTEND;TZID=Asia/Kuala_Lumpur:20240619T053000
+SUMMARY:Wuthering Waves Developer's Message Vol. 3: Version 1.1 Preview
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Developer's Message Vol. 3: Version 1.1 Preview
+END:VEVENT
+BEGIN:VEVENT
+UID:897@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240619T201139
+DTEND;TZID=Asia/Kuala_Lumpur:20240619T201139
+SUMMARY:Wuthering Waves Version Preview | Version 1.1 "Thaw of Eons" Coming June 28
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Preview | Version 1.1 "Thaw of Eons" Coming June 28
+END:VEVENT
+BEGIN:VEVENT
+UID:900@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240619T201806
+DTEND;TZID=Asia/Kuala_Lumpur:20240619T201806
+SUMMARY:"Chord Cleansing" LT Echo Double Drop Event
+DESCRIPTION:鸣潮官方活动公告\n"Chord Cleansing" LT Echo Double Drop Event
+END:VEVENT
+BEGIN:VEVENT
+UID:913@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240622T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240622T020000
+SUMMARY:Rover's Notes | Version 1.1 "Thaw of Eons"
+DESCRIPTION:鸣潮官方活动公告\nRover's Notes | Version 1.1 "Thaw of Eons"
+END:VEVENT
+BEGIN:VEVENT
+UID:945@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240625T203000
+DTEND;TZID=Asia/Kuala_Lumpur:20240625T203000
+SUMMARY:Wuthering Waves Version 1.1 Update Maintenance Notice
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version 1.1 Update Maintenance Notice
+END:VEVENT
+BEGIN:VEVENT
+UID:973@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240627T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20240627T190000
+SUMMARY:[Thawborn Renewal] Featured Resonator Convene: Boosted Drop Rate for Jinhsi
+DESCRIPTION:鸣潮官方活动公告\n[Thawborn Renewal] Featured Resonator Convene: Boosted Drop Rate for Jinhsi
+END:VEVENT
+BEGIN:VEVENT
+UID:974@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240627T191000
+DTEND;TZID=Asia/Kuala_Lumpur:20240627T191000
+SUMMARY:[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Ages of Harvest
+DESCRIPTION:鸣潮官方活动公告\n[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Ages of Harvest
+END:VEVENT
+BEGIN:VEVENT
+UID:975@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240628T020000
+DTEND;TZID=Asia/Kuala_Lumpur:20240628T020000
+SUMMARY:Wuthering Waves Version Overview | Version 1.1 "Thaw of Eons" Coming June 28
+DESCRIPTION:鸣潮官方活动公告\nWuthering Waves Version Overview | Version 1.1 "Thaw of Eons" Coming June 28
+END:VEVENT
+BEGIN:VEVENT
+UID:996@💙 鸣潮
+DTSTAMP:20260915T052858Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20240628T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20240628T200000
+SUMMARY:Version 1.1: Thaw of Eons Patch Notes
+DESCRIPTION:鸣潮官方活动公告\nVersion 1.1: Thaw of Eons Patch Notes
+END:VEVENT
 END:VCALENDAR

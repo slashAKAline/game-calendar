@@ -173,101 +173,200 @@ def update_endfield_calendar(filename):
 
 
 def update_wuthering_calendar(filename):
-    url = (
+    base_url = (
         "https://api.github.com/repos/"
-        "TheLovinator1/wutheringwaves/git/trees/master"
-        "?recursive=1"
+        "TheLovinator1/wutheringwaves/contents/articles"
     )
-
-    data = fetch_json(url)
-
-    if not isinstance(data, dict):
-        raise RuntimeError(
-            "Wuthering Waves Git tree API returned unexpected data"
-        )
 
     calendar_events = []
 
-    keywords = [
-        "Upcoming Events",
-        "Featured Resonator",
-        "Featured Weapon",
-        "Limited-Time",
-        "Combat Event",
-        "Leisure Event",
-        "Exploration Event",
-        "Commission Event",
-        "Login Event",
-        "Material Double Drop",
-        "Echo Double Drop",
-        "Battle Rush",
-        "Depths of Illusive Realm",
-        "Endstate Matrix",
-        "Event",
-        "Convene",
-    ]
+    # Get ALL article pages instead of only the first page.
+    page = 1
 
-    for file in data.get("tree", []):
-        path = file.get("path", "")
-
-        if not path.startswith("articles/"):
-            continue
-
-        if not path.endswith(".json"):
-            continue
-
-        file_url = (
-            "https://raw.githubusercontent.com/"
-            "TheLovinator1/wutheringwaves/master/"
-            + path
+    while True:
+        url = (
+            base_url
+            + "?ref=master&per_page=100&page="
+            + str(page)
         )
 
-        try:
-            article = fetch_json(file_url)
-        except Exception:
-            continue
+        data = fetch_json(url)
 
-        title = article.get("articleTitle", "")
-        start = article.get("startTime")
+        if not isinstance(data, list) or not data:
+            break
 
-        if not title or not start:
-            continue
+        for file in data:
+            file_url = file.get("download_url")
 
-        if not any(
-            keyword.lower() in title.lower()
-            for keyword in keywords
-        ):
-            continue
+            if not file_url:
+                continue
 
-        try:
-            start_dt = datetime.strptime(
-                start,
-                "%Y-%m-%d %H:%M:%S"
-            ).replace(
-                tzinfo=timezone.utc
+            if not file.get("name", "").endswith(".json"):
+                continue
+
+            try:
+                article = fetch_json(file_url)
+            except Exception:
+                continue
+
+            title = article.get("articleTitle", "")
+            start = article.get("startTime", "")
+            content = article.get("articleContent", "")
+
+            if not title:
+                continue
+
+            # Only keep articles that are useful for the calendar.
+            keywords = [
+                "Upcoming Events",
+                "Featured Resonator",
+                "Featured Weapon",
+                "Limited-Time",
+                "Combat Event",
+                "Leisure Event",
+                "Exploration Event",
+                "Commission Event",
+                "Login Event",
+                "Double Drop",
+                "Double Drop Event",
+                "Event Notice",
+                "Event Preview",
+                "Event",
+                "Convene",
+                "Version",
+                "Patch Notes",
+            ]
+
+            if not any(
+                keyword.lower() in title.lower()
+                for keyword in keywords
+            ):
+                continue
+
+            start_dt = None
+            end_dt = None
+
+            # -------------------------------------------------
+            # Try to find the actual event duration in article
+            # content.
+            #
+            # Example:
+            # 2026-07-11 10:00 - 2026-08-19 11:59
+            # -------------------------------------------------
+
+            duration_patterns = [
+                r"(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})\s*-\s*"
+                r"(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2})",
+
+                r"(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2})\s*-\s*"
+                r"(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2})",
+            ]
+
+            for pattern in duration_patterns:
+                match = re.search(
+                    pattern,
+                    content
+                )
+
+                if match:
+                    try:
+                        start_dt = datetime.strptime(
+                            match.group(1),
+                            "%Y-%m-%d %H:%M"
+                        ).replace(
+                            tzinfo=ZoneInfo("Asia/Kuala_Lumpur")
+                        )
+
+                        end_dt = datetime.strptime(
+                            match.group(2),
+                            "%Y-%m-%d %H:%M"
+                        ).replace(
+                            tzinfo=ZoneInfo("Asia/Kuala_Lumpur")
+                        )
+
+                        break
+
+                    except ValueError:
+                        try:
+                            start_dt = datetime.strptime(
+                                match.group(1),
+                                "%Y-%m-%d %H:%M:%S"
+                            ).replace(
+                                tzinfo=ZoneInfo(
+                                    "Asia/Kuala_Lumpur"
+                                )
+                            )
+
+                            end_dt = datetime.strptime(
+                                match.group(2),
+                                "%Y-%m-%d %H:%M:%S"
+                            ).replace(
+                                tzinfo=ZoneInfo(
+                                    "Asia/Kuala_Lumpur"
+                                )
+                            )
+
+                            break
+
+                        except ValueError:
+                            pass
+
+            # -------------------------------------------------
+            # Fallback:
+            # If no duration is available, use article startTime.
+            # -------------------------------------------------
+
+            if start_dt is None and start:
+                try:
+                    start_dt = datetime.strptime(
+                        start,
+                        "%Y-%m-%d %H:%M:%S"
+                    ).replace(
+                        tzinfo=ZoneInfo(
+                            "Asia/Kuala_Lumpur"
+                        )
+                    )
+
+                    end_dt = start_dt
+
+                except ValueError:
+                    continue
+
+            if start_dt is None:
+                continue
+
+            if end_dt is None:
+                end_dt = start_dt
+
+            article_id = article.get(
+                "articleId",
+                file.get("name", title)
             )
-        except (ValueError, TypeError):
-            continue
 
-        calendar_events.append({
-            "id": f"wuthering-{article.get('articleId', title)}",
-            "name": title,
-            "start_time": start_dt.timestamp(),
-            "end_time": start_dt.timestamp(),
-            "description": (
-                "鸣潮官方活动公告\n"
-                + title
-            ),
-        })
+            calendar_events.append({
+                "id": f"wuthering-{article_id}",
+                "name": title,
+                "start_time": start_dt.timestamp(),
+                "end_time": end_dt.timestamp(),
+                "description": (
+                    "鸣潮活动 / 官方公告\n"
+                    + title
+                ),
+            })
 
-    # Remove duplicate events
+        page += 1
+
+    # Remove duplicates.
     unique_events = {}
+
     for event in calendar_events:
         unique_events[event["id"]] = event
 
-    calendar_events = list(unique_events.values())
+    calendar_events = list(
+        unique_events.values()
+    )
 
-    # Sort by start time
+    # Sort chronologically.
     calendar_events.sort(
         key=lambda event: event["start_time"]
     )
@@ -281,10 +380,16 @@ def update_wuthering_calendar(filename):
         calendar_events
     )
 
-    with open(filename, "w", encoding="utf-8") as f:
+    with open(
+        filename,
+        "w",
+        encoding="utf-8"
+    ) as f:
         f.write(content)
 
-    print(f"Generated {filename}")
+    print(
+        f"Generated {filename}"
+    )
 
 
 def main():

@@ -22,6 +22,10 @@ CALENDARS = {
         "name": "🧡 绝区零",
         "game": "zenless",
     },
+    "endfield.ics": {
+        "name": "💚 明日方舟：终末地",
+        "game": "endfield",
+    },
 }
 
 
@@ -115,15 +119,66 @@ def update_hoyo_calendar(filename, calendar):
     print(f"Generated {filename}")
 
 
+def update_endfield_calendar(filename):
+    url = (
+        "https://ef-cal.mogujun.icu/api/v1/events"
+        "?status=upcoming"
+    )
+
+    data = fetch_json(url)
+
+    if not data.get("success"):
+        raise RuntimeError("Endfield API returned an unsuccessful response")
+
+    events = data.get("data", {}).get("events", [])
+
+    print(f"endfield: {len(events)} events")
+
+    calendar_events = []
+
+    for event in events:
+        start = event.get("start")
+        end = event.get("end")
+
+        if not start or not end:
+            continue
+
+        calendar_events.append({
+            "id": event.get("id"),
+            "name": event.get("title", "未命名活动"),
+            "start_time": datetime.fromisoformat(
+                start.replace("Z", "+00:00")
+            ).timestamp(),
+            "end_time": datetime.fromisoformat(
+                end.replace("Z", "+00:00")
+            ).timestamp(),
+            "description": event.get("description", ""),
+        })
+
+    content = make_calendar(
+        "💚 明日方舟：终末地",
+        calendar_events
+    )
+
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print(f"Generated {filename}")
+
+
 def main():
     for filename, calendar in CALENDARS.items():
         try:
-            update_hoyo_calendar(filename, calendar)
+            if calendar["game"] == "endfield":
+                update_endfield_calendar(filename)
+            else:
+                update_hoyo_calendar(filename, calendar)
         except Exception as error:
             print(
                 f"ERROR updating {filename}: {error}"
             )
             raise
+
 
 
 if __name__ == "__main__":

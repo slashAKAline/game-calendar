@@ -1,17 +1,39 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Game Calendar//Genshin//CN
+PRODID:-//Game Calendar//Auto//CN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:🩵 原神
 X-WR-TIMEZONE:Asia/Kuala_Lumpur
-
 BEGIN:VEVENT
-UID:genshin-test-20260915@game-calendar
-DTSTAMP:20260915T040000Z
-DTSTART:20260915T120000
-DTEND:20260915T130000
-SUMMARY:【原神】日历测试
-DESCRIPTION:这是原神独立日历测试事件
+UID:426@🩵 原神
+DTSTAMP:20260915T042634Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T035959
+SUMMARY:Trial of the Bastion
+DESCRIPTION:Talalikhin\, an adventurer dedicated to studying dangerous phenomena\, has devised a new training simulation after compiling intelligence from various factions. This simulation is engineered to hone adventurers' skills in constructing defensive works and holding the line against formidable foes with firearms.
 END:VEVENT
-
+BEGIN:VEVENT
+UID:425@🩵 原神
+DTSTAMP:20260915T042634Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T035959
+SUMMARY:Stygian Onslaught
+DESCRIPTION:A strange Ley Line Disturbance has once again appeared\, this time in Liyue's Sal Terrae. You must breach the depths of this unpredictable Domain\, for only by defeating powerful foes can the turmoil be quelled... Of course\, where danger awaits\, so too do extraordinary treasures...
+END:VEVENT
+BEGIN:VEVENT
+UID:429@🩵 原神
+DTSTAMP:20260915T042634Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T040000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T035959
+SUMMARY:Ley Line Overflow
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:428@🩵 原神
+DTSTAMP:20260915T042634Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T070000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T070000
+SUMMARY:The Forge Realm's Temper: Game of Wits
+DESCRIPTION:
+END:VEVENT
 END:VCALENDAR

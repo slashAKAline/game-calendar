@@ -173,111 +173,79 @@ def update_endfield_calendar(filename):
 
 
 def update_wuthering_calendar(filename):
-    # Wuthering Waves official-news mirror
-    api_url = (
-        "https://api.github.com/repos/"
-        "TheLovinator1/wutheringwaves/contents/articles"
+    url = (
+        "https://raw.githubusercontent.com/"
+        "TheLovinator1/wutheringwaves/master/"
+        "articles.json"
     )
 
-    data = fetch_json(api_url)
+    data = fetch_json(url)
 
     if not isinstance(data, list):
         raise RuntimeError(
-            "Wuthering Waves article index returned unexpected data"
+            "Wuthering Waves API returned unexpected data"
         )
 
+    now = datetime.now().timestamp()
     calendar_events = []
 
-    duration_pattern = re.compile(
-        r"Duration[^0-9]*"
-        r"(\d{4}-\d{2}-\d{2})\s+"
-        r"(\d{1,2}:\d{2})\s*-\s*"
-        r"(\d{4}-\d{2}-\d{2})\s+"
-        r"(\d{1,2}:\d{2})",
-        re.IGNORECASE,
-    )
+    # 只保留未来或正在进行的公告
+    for article in data:
+        title = article.get("articleTitle", "")
+        start = article.get("startTime")
 
-    for item in data:
-        name = item.get("name", "")
-
-        if not name.endswith(".json"):
+        if not title or not start:
             continue
-
-        article_url = (
-            "https://raw.githubusercontent.com/"
-            "TheLovinator1/wutheringwaves/master/"
-            "articles/"
-            + name
-        )
 
         try:
-            article = fetch_json(article_url)
-        except Exception:
+            start_dt = datetime.fromisoformat(
+                start.replace("Z", "+00:00")
+            )
+        except (ValueError, TypeError):
             continue
 
-        title = article.get("articleTitle", "")
-        content = article.get("articleContent", "")
+        start_time = start_dt.timestamp()
 
-        if not title or not content:
+        # 忽略已经开始超过一年的历史公告
+        if start_time < now - 365 * 24 * 60 * 60:
             continue
 
-        # Only use actual event-related announcements.
-        event_keywords = [
+        keywords = [
             "Event",
-            "Events",
-            "event",
-            "events",
-            "Upcoming",
-            "Duration",
-            "Featured",
-            "Limited-Time",
+            "Version",
+            "Patch Notes",
+            "Preview",
+            "Convene",
+            "活动",
+            "版本",
+            "庆典",
+            "限时",
+            "开启",
         ]
 
         if not any(
-            keyword in title or keyword in content
-            for keyword in event_keywords
+            keyword.lower() in title.lower()
+            for keyword in keywords
         ):
             continue
 
-        matches = duration_pattern.findall(content)
+        calendar_events.append({
+            "id": article.get(
+                "articleId",
+                title
+            ),
+            "name": title,
+            "start_time": start_time,
+            "end_time": start_time,
+            "description": (
+                "鸣潮官方活动公告\n"
+                + title
+            ),
+        })
 
-        for index, match in enumerate(matches):
-            start_date, start_time, end_date, end_time = match
-
-            try:
-                start_dt = datetime.strptime(
-                    f"{start_date} {start_time}",
-                    "%Y-%m-%d %H:%M",
-                ).replace(tzinfo=TZ)
-
-                end_dt = datetime.strptime(
-                    f"{end_date} {end_time}",
-                    "%Y-%m-%d %H:%M",
-                ).replace(tzinfo=TZ)
-
-            except ValueError:
-                continue
-
-            calendar_events.append({
-                "id": f"{article.get('articleId', name)}-{index}",
-                "name": title,
-                "start_time": start_dt.timestamp(),
-                "end_time": end_dt.timestamp(),
-                "description": (
-                    "鸣潮官方活动公告\n"
-                    + title
-                ),
-            })
-
-    # Remove duplicate events.
-    unique_events = {}
-    for event in calendar_events:
-        unique_events[event["id"]] = event
-
-    calendar_events = list(unique_events.values())
-
-    print(
-        f"wuthering: {len(calendar_events)} events"
+    # 按开始时间排序
+    calendar_events.sort(
+        key=lambda event: event["start_time"]
     )
 
     content = make_calendar(
@@ -288,6 +256,10 @@ def update_wuthering_calendar(filename):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(content)
 
+    print(
+        f"wuthering: "
+        f"{len(calendar_events)} events"
+    )
     print(f"Generated {filename}")
 
 

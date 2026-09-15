@@ -1,7 +1,9 @@
 import json
+import re
 import urllib.request
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
+
 
 
 TZ = ZoneInfo("Asia/Kuala_Lumpur")
@@ -25,6 +27,10 @@ CALENDARS = {
     "endfield.ics": {
         "name": "💚 明日方舟：终末地",
         "game": "endfield",
+    },
+    "wuthering.ics": {
+        "name": "💙 鸣潮",
+        "game": "wuthering",
     },
 }
 
@@ -166,11 +172,132 @@ def update_endfield_calendar(filename):
     print(f"Generated {filename}")
 
 
+def update_wuthering_calendar(filename):
+    # Wuthering Waves official-news mirror
+    api_url = (
+        "https://api.github.com/repos/"
+        "TheLovinator1/wutheringwaves/contents/articles"
+    )
+
+    data = fetch_json(api_url)
+
+    if not isinstance(data, list):
+        raise RuntimeError(
+            "Wuthering Waves article index returned unexpected data"
+        )
+
+    calendar_events = []
+
+    duration_pattern = re.compile(
+        r"Duration[^0-9]*"
+        r"(\d{4}-\d{2}-\d{2})\s+"
+        r"(\d{1,2}:\d{2})\s*-\s*"
+        r"(\d{4}-\d{2}-\d{2})\s+"
+        r"(\d{1,2}:\d{2})",
+        re.IGNORECASE,
+    )
+
+    for item in data:
+        name = item.get("name", "")
+
+        if not name.endswith(".json"):
+            continue
+
+        article_url = (
+            "https://raw.githubusercontent.com/"
+            "TheLovinator1/wutheringwaves/master/"
+            "articles/"
+            + name
+        )
+
+        try:
+            article = fetch_json(article_url)
+        except Exception:
+            continue
+
+        title = article.get("articleTitle", "")
+        content = article.get("articleContent", "")
+
+        if not title or not content:
+            continue
+
+        # Only use actual event-related announcements.
+        event_keywords = [
+            "Event",
+            "Events",
+            "event",
+            "events",
+            "Upcoming",
+            "Duration",
+            "Featured",
+            "Limited-Time",
+        ]
+
+        if not any(
+            keyword in title or keyword in content
+            for keyword in event_keywords
+        ):
+            continue
+
+        matches = duration_pattern.findall(content)
+
+        for index, match in enumerate(matches):
+            start_date, start_time, end_date, end_time = match
+
+            try:
+                start_dt = datetime.strptime(
+                    f"{start_date} {start_time}",
+                    "%Y-%m-%d %H:%M",
+                ).replace(tzinfo=TZ)
+
+                end_dt = datetime.strptime(
+                    f"{end_date} {end_time}",
+                    "%Y-%m-%d %H:%M",
+                ).replace(tzinfo=TZ)
+
+            except ValueError:
+                continue
+
+            calendar_events.append({
+                "id": f"{article.get('articleId', name)}-{index}",
+                "name": title,
+                "start_time": start_dt.timestamp(),
+                "end_time": end_dt.timestamp(),
+                "description": (
+                    "鸣潮官方活动公告\n"
+                    + title
+                ),
+            })
+
+    # Remove duplicate events.
+    unique_events = {}
+    for event in calendar_events:
+        unique_events[event["id"]] = event
+
+    calendar_events = list(unique_events.values())
+
+    print(
+        f"wuthering: {len(calendar_events)} events"
+    )
+
+    content = make_calendar(
+        "💙 鸣潮",
+        calendar_events
+    )
+
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(content)
+
+    print(f"Generated {filename}")
+
+
 def main():
     for filename, calendar in CALENDARS.items():
         try:
             if calendar["game"] == "endfield":
                 update_endfield_calendar(filename)
+            elif calendar["game"] == "wuthering":
+                update_wuthering_calendar(filename)
             else:
                 update_hoyo_calendar(filename, calendar)
         except Exception as error:

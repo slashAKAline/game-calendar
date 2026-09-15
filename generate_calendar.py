@@ -173,7 +173,74 @@ def update_endfield_calendar(filename):
 
 
 def update_wuthering_calendar(filename):
+    url = (
+        "https://api.github.com/repos/"
+        "TheLovinator1/wutheringwaves/contents/articles"
+    )
+
+    data = fetch_json(url)
+
+    if not isinstance(data, list):
+        raise RuntimeError(
+            "Wuthering Waves articles API returned unexpected data"
+        )
+
     calendar_events = []
+
+    keywords = [
+        "Upcoming Events",
+        "Featured Resonator",
+        "Featured Weapon",
+        "Limited-Time",
+        "Event",
+        "Version",
+        "Patch Notes",
+    ]
+
+    for file in data:
+        file_url = file.get("download_url")
+
+        if not file_url or not file.get("name", "").endswith(".json"):
+            continue
+
+        try:
+            article = fetch_json(file_url)
+        except Exception:
+            continue
+
+        title = article.get("articleTitle", "")
+        start = article.get("startTime")
+
+        if not title or not start:
+            continue
+
+        if not any(keyword.lower() in title.lower() for keyword in keywords):
+            continue
+
+        try:
+            start_dt = datetime.fromisoformat(
+                start.replace("Z", "+00:00")
+            )
+        except ValueError:
+            continue
+
+        calendar_events.append({
+            "id": article.get(
+                "articleId",
+                title
+            ),
+            "name": title,
+            "start_time": start_dt.timestamp(),
+            "end_time": start_dt.timestamp(),
+            "description": (
+                "鸣潮官方活动公告\n"
+                + title
+            ),
+        })
+
+    print(
+        f"wuthering: {len(calendar_events)} events"
+    )
 
     content = make_calendar(
         "💙 鸣潮",

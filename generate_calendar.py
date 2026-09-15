@@ -96,7 +96,7 @@ def make_calendar(name, events):
 def update_hoyo_calendar(filename, calendar):
     game = calendar["game"]
 
-    url = f"{HOYO_API}/mihoyo/{game}/calendar?lang=en-us"
+    url = f"{HOYO_API}/mihoyo/{game}/calendar?lang=zh-cn"
 
     data = fetch_json(url)
 

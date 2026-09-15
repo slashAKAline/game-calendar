@@ -174,78 +174,82 @@ def update_endfield_calendar(filename):
 
 def update_wuthering_calendar(filename):
     url = (
-        "https://raw.githubusercontent.com/"
-        "TheLovinator1/wutheringwaves/master/"
-        "articles.json"
+        "https://api.ennead.cc/wuthering/calendar"
+        "?lang=zh-cn"
     )
 
     data = fetch_json(url)
 
-    if not isinstance(data, list):
+    if not isinstance(data, dict):
         raise RuntimeError(
-            "Wuthering Waves API returned unexpected data"
+            "Wuthering Waves calendar API returned unexpected data"
         )
 
-    now = datetime.now().timestamp()
+    events = data.get("data", [])
+
+    if not isinstance(events, list):
+        events = data.get("events", [])
+
     calendar_events = []
 
-    # 只保留未来或正在进行的公告
-    for article in data:
-        title = article.get("articleTitle", "")
-        start = article.get("startTime")
+    for event in events:
+        title = (
+            event.get("title")
+            or event.get("name")
+            or event.get("articleTitle")
+            or "未命名活动"
+        )
 
-        if not title or not start:
+        start = (
+            event.get("start")
+            or event.get("startTime")
+            or event.get("start_time")
+        )
+
+        end = (
+            event.get("end")
+            or event.get("endTime")
+            or event.get("end_time")
+        )
+
+        if not start:
             continue
 
         try:
             start_dt = datetime.fromisoformat(
-                start.replace("Z", "+00:00")
+                str(start).replace("Z", "+00:00")
             )
         except (ValueError, TypeError):
             continue
 
-        start_time = start_dt.timestamp()
-
-        # 忽略已经开始超过一年的历史公告
-        if start_time < now - 365 * 24 * 60 * 60:
-            continue
-
-        keywords = [
-            "Event",
-            "Version",
-            "Patch Notes",
-            "Preview",
-            "Convene",
-            "活动",
-            "版本",
-            "庆典",
-            "限时",
-            "开启",
-        ]
-
-        if not any(
-            keyword.lower() in title.lower()
-            for keyword in keywords
-        ):
-            continue
+        if end:
+            try:
+                end_dt = datetime.fromisoformat(
+                    str(end).replace("Z", "+00:00")
+                )
+            except (ValueError, TypeError):
+                end_dt = start_dt
+        else:
+            end_dt = start_dt
 
         calendar_events.append({
-            "id": article.get(
-                "articleId",
-                title
-            ),
+            "id": event.get("id", title),
             "name": title,
-            "start_time": start_time,
-            "end_time": start_time,
-            "description": (
-                "鸣潮官方活动公告\n"
-                + title
+            "start_time": start_dt.timestamp(),
+            "end_time": end_dt.timestamp(),
+            "description": event.get(
+                "description",
+                "鸣潮官方活动公告"
             ),
         })
 
-    # 按开始时间排序
     calendar_events.sort(
         key=lambda event: event["start_time"]
+    )
+
+    print(
+        f"wuthering: "
+        f"{len(calendar_events)} events"
     )
 
     content = make_calendar(
@@ -256,10 +260,6 @@ def update_wuthering_calendar(filename):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print(
-        f"wuthering: "
-        f"{len(calendar_events)} events"
-    )
     print(f"Generated {filename}")
 
 
